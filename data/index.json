@@ -1,0 +1,32 @@
+[
+  {
+    "id": "resistors",
+    "name": "Điện trở",
+    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/resistor.png",
+    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/resistors.json"
+  },
+  {
+    "id": "capacitors",
+    "name": "Tụ điện",
+    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/capacitor.png",
+    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/capacitors.json"
+  },
+  {
+    "id": "ics_timer_analog",
+    "name": "IC Analog & Timer",
+    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/ic_analog.png",
+    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/ics_timer_analog.json"
+  },
+  {
+    "id": "transistors",
+    "name": "Transistor",
+    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/transistor.png",
+    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/transistors.json"
+  },
+  {
+    "id": "sensors",
+    "name": "Cảm biến",
+    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/sensor.png",
+    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/sensors.json"
+  }
+]
