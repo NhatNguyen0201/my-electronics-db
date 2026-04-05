@@ -1,0 +1,26 @@
+[
+    {
+        "id": "res_generic",
+        "name": "Resistor",
+        "category": "Passive",
+        "description": "General purpose resistor",
+        "voltage": NaN,
+        "package": "Axial/SMD"
+    },
+    {
+        "id": "cap_electrolytic",
+        "name": "Electrolytic Capacitor",
+        "category": "Passive",
+        "description": "Polarized energy storage",
+        "voltage": "10V-450V",
+        "package": "Radial"
+    },
+    {
+        "id": "cap_ceramic",
+        "name": "Ceramic Capacitor",
+        "category": "Passive",
+        "description": "Non-polarized decoupling",
+        "voltage": "50V",
+        "package": "SMD/Disk"
+    }
+]

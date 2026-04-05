@@ -1,0 +1,10 @@
+[
+    {
+        "id": "pcf8574",
+        "name": "PCF8574",
+        "category": "IC-Interface",
+        "description": "I2C I/O Expander",
+        "voltage": "2.5V-6V",
+        "package": "DIP-16"
+    }
+]

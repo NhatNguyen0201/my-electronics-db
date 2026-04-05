@@ -1,32 +1,72 @@
 [
-  {
-    "id": "resistors",
-    "name": "Điện trở",
-    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/resistor.png",
-    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/resistors.json"
-  },
-  {
-    "id": "capacitors",
-    "name": "Tụ điện",
-    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/capacitor.png",
-    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/capacitors.json"
-  },
-  {
-    "id": "ics_timer_analog",
-    "name": "IC Analog & Timer",
-    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/ic_analog.png",
-    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/ics_timer_analog.json"
-  },
-  {
-    "id": "transistors",
-    "name": "Transistor",
-    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/transistor.png",
-    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/transistors.json"
-  },
-  {
-    "id": "sensors",
-    "name": "Cảm biến",
-    "icon_url": "https://raw.githubusercontent.com/username/repo/main/assets/icons/sensor.png",
-    "data_url": "https://raw.githubusercontent.com/username/repo/main/data/categories/sensors.json"
-  }
+    {
+        "id": "passive",
+        "name": "Passive",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/passive.json"
+    },
+    {
+        "id": "opto",
+        "name": "Opto",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/opto.json"
+    },
+    {
+        "id": "diode",
+        "name": "Diode",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/diode.json"
+    },
+    {
+        "id": "transistor",
+        "name": "Transistor",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/transistor.json"
+    },
+    {
+        "id": "mosfet",
+        "name": "MOSFET",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/mosfet.json"
+    },
+    {
+        "id": "ic-timer",
+        "name": "IC-Timer",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-timer.json"
+    },
+    {
+        "id": "ic-opamp",
+        "name": "IC-OpAmp",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-opamp.json"
+    },
+    {
+        "id": "ic-regulator",
+        "name": "IC-Regulator",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-regulator.json"
+    },
+    {
+        "id": "ic-digital",
+        "name": "IC-Digital",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-digital.json"
+    },
+    {
+        "id": "mcu",
+        "name": "MCU",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/mcu.json"
+    },
+    {
+        "id": "ic-interface",
+        "name": "IC-Interface",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-interface.json"
+    },
+    {
+        "id": "sensor",
+        "name": "Sensor",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/sensor.json"
+    },
+    {
+        "id": "electromechanical",
+        "name": "Electromechanical",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/electromechanical.json"
+    },
+    {
+        "id": "display",
+        "name": "Display",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/display.json"
+    }
 ]

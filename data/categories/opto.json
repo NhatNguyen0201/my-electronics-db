@@ -1,0 +1,10 @@
+[
+    {
+        "id": "led_red",
+        "name": "Red LED",
+        "category": "Opto",
+        "description": "Basic red light indicator",
+        "voltage": "1.8V-2.2V",
+        "package": "5mm/0603"
+    }
+]

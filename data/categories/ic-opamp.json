@@ -1,0 +1,18 @@
+[
+    {
+        "id": "lm358",
+        "name": "LM358",
+        "category": "IC-OpAmp",
+        "description": "Dual operational amplifier",
+        "voltage": "3V-32V",
+        "package": "DIP-8/SOP-8"
+    },
+    {
+        "id": "lm324",
+        "name": "LM324",
+        "category": "IC-OpAmp",
+        "description": "Quad operational amplifier",
+        "voltage": "3V-32V",
+        "package": "DIP-14"
+    }
+]

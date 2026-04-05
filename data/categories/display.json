@@ -1,0 +1,18 @@
+[
+    {
+        "id": "lcd1602",
+        "name": "LCD1602",
+        "category": "Display",
+        "description": "16x2 Character LCD",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": "oled_i2c_096",
+        "name": "OLED 0.96",
+        "category": "Display",
+        "description": "I2C Blue/White OLED",
+        "voltage": "3.3V-5V",
+        "package": "Module"
+    }
+]

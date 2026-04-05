@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1n4148",
+        "name": "1N4148",
+        "category": "Diode",
+        "description": "High-speed switching diode",
+        "voltage": "100V",
+        "package": "DO-35"
+    },
+    {
+        "id": "1n4007",
+        "name": "1N4007",
+        "category": "Diode",
+        "description": "General purpose rectifier",
+        "voltage": "1000V",
+        "package": "DO-41"
+    }
+]

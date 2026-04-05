@@ -1,0 +1,18 @@
+[
+    {
+        "id": "74hc595",
+        "name": "74HC595",
+        "category": "IC-Digital",
+        "description": "8-bit shift register",
+        "voltage": "2V-6V",
+        "package": "DIP-16"
+    },
+    {
+        "id": "74hc138",
+        "name": "74HC138",
+        "category": "IC-Digital",
+        "description": "3-to-8 line decoder",
+        "voltage": "2V-6V",
+        "package": "DIP-16"
+    }
+]

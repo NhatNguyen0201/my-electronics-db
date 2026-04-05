@@ -1,0 +1,26 @@
+[
+    {
+        "id": "bc547",
+        "name": "BC547",
+        "category": "Transistor",
+        "description": "NPN General purpose BJT",
+        "voltage": "45V",
+        "package": "TO-92"
+    },
+    {
+        "id": "2n2222",
+        "name": "2N2222",
+        "category": "Transistor",
+        "description": "NPN High speed switching",
+        "voltage": "30V",
+        "package": "TO-92/TO-18"
+    },
+    {
+        "id": "tip122",
+        "name": "TIP122",
+        "category": "Transistor",
+        "description": "NPN Darlington power",
+        "voltage": "100V",
+        "package": "TO-220"
+    }
+]
