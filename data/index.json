@@ -5,68 +5,48 @@
         "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/passive.json"
     },
     {
-        "id": "opto",
-        "name": "Opto",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/opto.json"
+        "id": "optoelectronics",
+        "name": "Optoelectronics",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/optoelectronics.json"
     },
     {
-        "id": "diode",
-        "name": "Diode",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/diode.json"
+        "id": "semiconductors",
+        "name": "Semiconductors",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/semiconductors.json"
     },
     {
-        "id": "transistor",
-        "name": "Transistor",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/transistor.json"
+        "id": "analog_ics",
+        "name": "Analog ICs",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/analog_ics.json"
     },
     {
-        "id": "mosfet",
-        "name": "MOSFET",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/mosfet.json"
+        "id": "power_regulators",
+        "name": "Power & Regulators",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/power_regulators.json"
     },
     {
-        "id": "ic-timer",
-        "name": "IC-Timer",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-timer.json"
+        "id": "digital_ics",
+        "name": "Digital ICs",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/digital_ics.json"
     },
     {
-        "id": "ic-opamp",
-        "name": "IC-OpAmp",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-opamp.json"
+        "id": "microcontrollers",
+        "name": "Microcontrollers",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/microcontrollers.json"
     },
     {
-        "id": "ic-regulator",
-        "name": "IC-Regulator",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-regulator.json"
+        "id": "others",
+        "name": "Others",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/others.json"
     },
     {
-        "id": "ic-digital",
-        "name": "IC-Digital",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-digital.json"
-    },
-    {
-        "id": "mcu",
-        "name": "MCU",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/mcu.json"
-    },
-    {
-        "id": "ic-interface",
-        "name": "IC-Interface",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/ic-interface.json"
-    },
-    {
-        "id": "sensor",
-        "name": "Sensor",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/sensor.json"
+        "id": "sensors",
+        "name": "Sensors",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/sensors.json"
     },
     {
         "id": "electromechanical",
         "name": "Electromechanical",
         "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/electromechanical.json"
-    },
-    {
-        "id": "display",
-        "name": "Display",
-        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/display.json"
     }
 ]
