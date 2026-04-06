@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1n4148",
+        "name": "1N4148",
+        "category": "Semiconductors",
+        "description": "High-speed switching diode",
+        "voltage": "100V",
+        "package": "DO-35"
+    },
+    {
+        "id": "1n4007",
+        "name": "1N4007",
+        "category": "Semiconductors",
+        "description": "General purpose rectifier",
+        "voltage": "1000V",
+        "package": "DO-41"
+    },
+    {
+        "id": "bc547",
+        "name": "BC547",
+        "category": "Semiconductors",
+        "description": "NPN General purpose BJT",
+        "voltage": "45V",
+        "package": "TO-92"
+    },
+    {
+        "id": "2n2222",
+        "name": "2N2222",
+        "category": "Semiconductors",
+        "description": "NPN High speed switching",
+        "voltage": "30V",
+        "package": "TO-92/TO-18"
+    },
+    {
+        "id": "tip122",
+        "name": "TIP122",
+        "category": "Semiconductors",
+        "description": "NPN Darlington power",
+        "voltage": "100V",
+        "package": "TO-220"
+    },
+    {
+        "id": "irfz44n",
+        "name": "IRFZ44N",
+        "category": "Semiconductors",
+        "description": "N-Channel Power MOSFET",
+        "voltage": "55V",
+        "package": "TO-220"
+    }
+]
