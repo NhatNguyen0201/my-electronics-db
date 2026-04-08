@@ -1,0 +1,618 @@
+[
+    {
+        "id": 31,
+        "name": "LM7805",
+        "category": "Passive Components",
+        "description": "5V linear regulator",
+        "voltage": "7-35V",
+        "package": "TO220"
+    },
+    {
+        "id": 32,
+        "name": "AMS1117-3.3",
+        "category": "Passive Components",
+        "description": "3.3V LDO regulator",
+        "voltage": "4.5-15V",
+        "package": "SOT223"
+    },
+    {
+        "id": 33,
+        "name": "LM2596",
+        "category": "Passive Components",
+        "description": "Buck converter 3A",
+        "voltage": "4-40V",
+        "package": "TO263"
+    },
+    {
+        "id": 34,
+        "name": "MP1584",
+        "category": "Passive Components",
+        "description": "Step-down regulator 3A",
+        "voltage": "4.5-28V",
+        "package": "QFN8"
+    },
+    {
+        "id": 35,
+        "name": "XL4015",
+        "category": "Passive Components",
+        "description": "5A DC-DC buck",
+        "voltage": "8-36V",
+        "package": "TO263"
+    },
+    {
+        "id": 36,
+        "name": "LT1763",
+        "category": "Passive Components",
+        "description": "Low noise LDO",
+        "voltage": "1.6-20V",
+        "package": "SOT223"
+    },
+    {
+        "id": 37,
+        "name": "MCP1700",
+        "category": "Passive Components",
+        "description": "Low quiescent LDO",
+        "voltage": "2.3-6V",
+        "package": "SOT23"
+    },
+    {
+        "id": 38,
+        "name": "TL431",
+        "category": "Passive Components",
+        "description": "Adjustable reference",
+        "voltage": "2.5-36V",
+        "package": "TO92"
+    },
+    {
+        "id": 39,
+        "name": "AP2112K",
+        "category": "Passive Components",
+        "description": "Low dropout regulator",
+        "voltage": "2.5-6V",
+        "package": "SOT23-5"
+    },
+    {
+        "id": 40,
+        "name": "LM1117",
+        "category": "Passive Components",
+        "description": "LDO voltage regulator",
+        "voltage": "4.5-15V",
+        "package": "SOT223"
+    },
+    {
+        "id": 75,
+        "name": "Resistor 10k",
+        "category": "Passive Components",
+        "description": "10k ohm resistor",
+        "voltage": "0-250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 76,
+        "name": "Resistor 1k",
+        "category": "Passive Components",
+        "description": "1k ohm resistor",
+        "voltage": "0-250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 77,
+        "name": "Resistor 220",
+        "category": "Passive Components",
+        "description": "220 ohm resistor",
+        "voltage": "0-250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 78,
+        "name": "Capacitor 100nF",
+        "category": "Passive Components",
+        "description": "Ceramic capacitor",
+        "voltage": "50V",
+        "package": "0805"
+    },
+    {
+        "id": 79,
+        "name": "Capacitor 10uF",
+        "category": "Passive Components",
+        "description": "Electrolytic capacitor",
+        "voltage": "25V",
+        "package": "Radial"
+    },
+    {
+        "id": 80,
+        "name": "Inductor 10uH",
+        "category": "Passive Components",
+        "description": "Power inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 81,
+        "name": "Inductor 100uH",
+        "category": "Passive Components",
+        "description": "Filtering inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 93,
+        "name": "Crystal 16MHz",
+        "category": "Passive Components",
+        "description": "Quartz crystal oscillator",
+        "voltage": "5V",
+        "package": "HC49"
+    },
+    {
+        "id": 94,
+        "name": "Crystal 32kHz",
+        "category": "Passive Components",
+        "description": "RTC crystal",
+        "voltage": "3.3V",
+        "package": "SMD"
+    },
+    {
+        "id": 95,
+        "name": "NTC 10k",
+        "category": "Passive Components",
+        "description": "Temperature dependent resistor",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 131,
+        "name": "LM2576",
+        "category": "Passive Components",
+        "description": "Buck regulator 3A",
+        "voltage": "4-40V",
+        "package": "TO220"
+    },
+    {
+        "id": 132,
+        "name": "LM2577",
+        "category": "Passive Components",
+        "description": "Boost regulator",
+        "voltage": "3.5-40V",
+        "package": "TO220"
+    },
+    {
+        "id": 133,
+        "name": "XL6009",
+        "category": "Passive Components",
+        "description": "Boost converter",
+        "voltage": "3-32V",
+        "package": "TO220"
+    },
+    {
+        "id": 134,
+        "name": "MT3608",
+        "category": "Passive Components",
+        "description": "Boost converter small",
+        "voltage": "2-24V",
+        "package": "SOT23"
+    },
+    {
+        "id": 135,
+        "name": "TPS62160",
+        "category": "Passive Components",
+        "description": "DC-DC step-down TI",
+        "voltage": "3-17V",
+        "package": "QFN16"
+    },
+    {
+        "id": 136,
+        "name": "TPS63060",
+        "category": "Passive Components",
+        "description": "Buck-boost converter",
+        "voltage": "2.5-12V",
+        "package": "QFN20"
+    },
+    {
+        "id": 137,
+        "name": "RT8059",
+        "category": "Passive Components",
+        "description": "LDO regulator",
+        "voltage": "2-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 138,
+        "name": "XC6206",
+        "category": "Passive Components",
+        "description": "LDO small",
+        "voltage": "1.8-6V",
+        "package": "SOT23"
+    },
+    {
+        "id": 139,
+        "name": "ME6211",
+        "category": "Passive Components",
+        "description": "Ultra low noise LDO",
+        "voltage": "2-6V",
+        "package": "SOT23"
+    },
+    {
+        "id": 140,
+        "name": "HT7333",
+        "category": "Passive Components",
+        "description": "Low power LDO",
+        "voltage": "2-12V",
+        "package": "TO92"
+    },
+    {
+        "id": 177,
+        "name": "Resistor 4.7k",
+        "category": "Passive Components",
+        "description": "4.7k resistor",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 178,
+        "name": "Resistor 100k",
+        "category": "Passive Components",
+        "description": "100k resistor",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 179,
+        "name": "Capacitor 1uF",
+        "category": "Passive Components",
+        "description": "Ceramic capacitor",
+        "voltage": "50V",
+        "package": "0805"
+    },
+    {
+        "id": 180,
+        "name": "Capacitor 100uF",
+        "category": "Passive Components",
+        "description": "Electrolytic capacitor",
+        "voltage": "16V",
+        "package": "Radial"
+    },
+    {
+        "id": 181,
+        "name": "Inductor 1mH",
+        "category": "Passive Components",
+        "description": "Filtering inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 182,
+        "name": "Inductor 22uH",
+        "category": "Passive Components",
+        "description": "Power inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 192,
+        "name": "Crystal 8MHz",
+        "category": "Passive Components",
+        "description": "Quartz crystal",
+        "voltage": "5V",
+        "package": "HC49"
+    },
+    {
+        "id": 193,
+        "name": "Crystal 12MHz",
+        "category": "Passive Components",
+        "description": "Quartz crystal",
+        "voltage": "5V",
+        "package": "HC49"
+    },
+    {
+        "id": 194,
+        "name": "PTC Resettable Fuse",
+        "category": "Passive Components",
+        "description": "Polyfuse protection",
+        "voltage": "30V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 221,
+        "name": "Photoresistor LDR",
+        "category": "Passive Components",
+        "description": "Light dependent resistor",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 222,
+        "name": "Varistor MOV",
+        "category": "Passive Components",
+        "description": "Voltage protection",
+        "voltage": "250V",
+        "package": "Disc"
+    },
+    {
+        "id": 233,
+        "name": "Fuse 1A",
+        "category": "Passive Components",
+        "description": "Glass fuse",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 234,
+        "name": "Fuse 5A",
+        "category": "Passive Components",
+        "description": "Glass fuse",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 271,
+        "name": "TPS7A02",
+        "category": "Passive Components",
+        "description": "Ultra low noise LDO",
+        "voltage": "1.5-5.5V",
+        "package": "DSBGA"
+    },
+    {
+        "id": 272,
+        "name": "LM3485",
+        "category": "Passive Components",
+        "description": "Boost controller",
+        "voltage": "2.97-48V",
+        "package": "SOP8"
+    },
+    {
+        "id": 273,
+        "name": "MC34063",
+        "category": "Passive Components",
+        "description": "DC-DC converter IC",
+        "voltage": "3-40V",
+        "package": "DIP8"
+    },
+    {
+        "id": 274,
+        "name": "RT8250",
+        "category": "Passive Components",
+        "description": "Buck regulator",
+        "voltage": "4.5-23V",
+        "package": "SOP8"
+    },
+    {
+        "id": 275,
+        "name": "AP34063",
+        "category": "Passive Components",
+        "description": "Step-up/down converter",
+        "voltage": "3-40V",
+        "package": "DIP8"
+    },
+    {
+        "id": 284,
+        "name": "TLV70033",
+        "category": "Passive Components",
+        "description": "LDO regulator 3.3V",
+        "voltage": "2-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 285,
+        "name": "LM1117-5.0",
+        "category": "Passive Components",
+        "description": "LDO 5V regulator",
+        "voltage": "4.5-15V",
+        "package": "SOT223"
+    },
+    {
+        "id": 307,
+        "name": "Resistor 2.2k",
+        "category": "Passive Components",
+        "description": "2.2k ohm resistor",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 308,
+        "name": "Resistor 47k",
+        "category": "Passive Components",
+        "description": "47k ohm resistor",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 309,
+        "name": "Capacitor 220nF",
+        "category": "Passive Components",
+        "description": "Ceramic capacitor",
+        "voltage": "50V",
+        "package": "0805"
+    },
+    {
+        "id": 310,
+        "name": "Capacitor 470uF",
+        "category": "Passive Components",
+        "description": "Electrolytic capacitor",
+        "voltage": "25V",
+        "package": "Radial"
+    },
+    {
+        "id": 311,
+        "name": "Inductor 47uH",
+        "category": "Passive Components",
+        "description": "Power inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 312,
+        "name": "Inductor 220uH",
+        "category": "Passive Components",
+        "description": "Filtering inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 322,
+        "name": "Crystal 20MHz",
+        "category": "Passive Components",
+        "description": "Quartz crystal",
+        "voltage": "5V",
+        "package": "HC49"
+    },
+    {
+        "id": 323,
+        "name": "Crystal 25MHz",
+        "category": "Passive Components",
+        "description": "Quartz crystal",
+        "voltage": "5V",
+        "package": "HC49"
+    },
+    {
+        "id": 324,
+        "name": "Supercapacitor 1F",
+        "category": "Passive Components",
+        "description": "Energy storage capacitor",
+        "voltage": "5.5V",
+        "package": "Radial"
+    },
+    {
+        "id": 343,
+        "name": "LDR GL5528",
+        "category": "Passive Components",
+        "description": "Photoresistor",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 344,
+        "name": "Varistor MOV-14D471K",
+        "category": "Passive Components",
+        "description": "Surge protection",
+        "voltage": "300V",
+        "package": "Disc"
+    },
+    {
+        "id": 355,
+        "name": "Fuse Resettable 500mA",
+        "category": "Passive Components",
+        "description": "Polyfuse resettable",
+        "voltage": "30V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 356,
+        "name": "Fuse 10A Automotive",
+        "category": "Passive Components",
+        "description": "Car fuse",
+        "voltage": "32V",
+        "package": "Blade"
+    },
+    {
+        "id": 426,
+        "name": "TPS62840",
+        "category": "Passive Components",
+        "description": "High efficiency buck",
+        "voltage": "1.8-6.5V",
+        "package": "QFN"
+    },
+    {
+        "id": 427,
+        "name": "LTC3531",
+        "category": "Passive Components",
+        "description": "Buck-boost converter",
+        "voltage": "2.4-5.5V",
+        "package": "QFN"
+    },
+    {
+        "id": 428,
+        "name": "LT1302",
+        "category": "Passive Components",
+        "description": "Boost regulator IC",
+        "voltage": "2-10V",
+        "package": "DIP8"
+    },
+    {
+        "id": 429,
+        "name": "MAX756",
+        "category": "Passive Components",
+        "description": "Step-up DC-DC converter",
+        "voltage": "0.7-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 430,
+        "name": "AP1501",
+        "category": "Passive Components",
+        "description": "Buck regulator 3A",
+        "voltage": "4.5-40V",
+        "package": "TO263"
+    },
+    {
+        "id": 457,
+        "name": "Resistor 330",
+        "category": "Passive Components",
+        "description": "330 ohm resistor",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 458,
+        "name": "Resistor 680",
+        "category": "Passive Components",
+        "description": "680 ohm resistor",
+        "voltage": "250V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 459,
+        "name": "Capacitor 4.7uF",
+        "category": "Passive Components",
+        "description": "Ceramic capacitor",
+        "voltage": "25V",
+        "package": "0805"
+    },
+    {
+        "id": 460,
+        "name": "Capacitor 220uF",
+        "category": "Passive Components",
+        "description": "Electrolytic capacitor",
+        "voltage": "16V",
+        "package": "Radial"
+    },
+    {
+        "id": 461,
+        "name": "Inductor 330uH",
+        "category": "Passive Components",
+        "description": "Power inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 462,
+        "name": "Inductor 470uH",
+        "category": "Passive Components",
+        "description": "Filtering inductor",
+        "voltage": "10-50V",
+        "package": "SMD"
+    },
+    {
+        "id": 472,
+        "name": "Crystal 40MHz",
+        "category": "Passive Components",
+        "description": "High frequency crystal",
+        "voltage": "3.3V",
+        "package": "SMD"
+    },
+    {
+        "id": 473,
+        "name": "Crystal 48MHz",
+        "category": "Passive Components",
+        "description": "USB crystal oscillator",
+        "voltage": "3.3V",
+        "package": "SMD"
+    },
+    {
+        "id": 474,
+        "name": "Supercapacitor 5F",
+        "category": "Passive Components",
+        "description": "High capacity capacitor",
+        "voltage": "5.5V",
+        "package": "Radial"
+    }
+]

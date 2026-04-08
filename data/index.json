@@ -1,0 +1,20 @@
+[
+    {
+        "id": "active_components",
+        "name": "Active Components",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/active_components.json",
+        "item_count": 370
+    },
+    {
+        "id": "passive_components",
+        "name": "Passive Components",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/passive_components.json",
+        "item_count": 77
+    },
+    {
+        "id": "others_hardware",
+        "name": "Others & Hardware",
+        "data_url": "https://raw.githubusercontent.com/NhatNguyen0201/my-electronics-db/main/data/categories/others_hardware.json",
+        "item_count": 53
+    }
+]

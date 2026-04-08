@@ -1,0 +1,2962 @@
+[
+    {
+        "id": 1,
+        "name": "STM32F103C8T6",
+        "category": "Active Components",
+        "description": "ARM Cortex-M3 microcontroller 72MHz",
+        "voltage": "2.0-3.6V",
+        "package": "LQFP48"
+    },
+    {
+        "id": 2,
+        "name": "ATmega328P",
+        "category": "Active Components",
+        "description": "8-bit AVR microcontroller used in Arduino",
+        "voltage": "1.8-5.5V",
+        "package": "DIP28"
+    },
+    {
+        "id": 3,
+        "name": "ESP32-WROOM-32",
+        "category": "Active Components",
+        "description": "WiFi+Bluetooth MCU dual core",
+        "voltage": "2.2-3.6V",
+        "package": "Module"
+    },
+    {
+        "id": 4,
+        "name": "RP2040",
+        "category": "Active Components",
+        "description": "Dual-core Cortex-M0+ MCU",
+        "voltage": "1.8-3.3V",
+        "package": "QFN56"
+    },
+    {
+        "id": 5,
+        "name": "STM32F407VGT6",
+        "category": "Active Components",
+        "description": "High performance Cortex-M4 MCU",
+        "voltage": "1.8-3.6V",
+        "package": "LQFP100"
+    },
+    {
+        "id": 6,
+        "name": "ATSAMD21G18",
+        "category": "Active Components",
+        "description": "ARM Cortex-M0+ MCU low power",
+        "voltage": "1.62-3.63V",
+        "package": "QFN48"
+    },
+    {
+        "id": 7,
+        "name": "PIC16F877A",
+        "category": "Active Components",
+        "description": "8-bit PIC microcontroller",
+        "voltage": "2.0-5.5V",
+        "package": "DIP40"
+    },
+    {
+        "id": 8,
+        "name": "MSP430G2553",
+        "category": "Active Components",
+        "description": "Ultra-low power MCU",
+        "voltage": "1.8-3.6V",
+        "package": "DIP20"
+    },
+    {
+        "id": 9,
+        "name": "NRF52840",
+        "category": "Active Components",
+        "description": "BLE + Thread MCU",
+        "voltage": "1.7-3.6V",
+        "package": "QFN73"
+    },
+    {
+        "id": 10,
+        "name": "ESP8266EX",
+        "category": "Active Components",
+        "description": "WiFi MCU low cost",
+        "voltage": "2.5-3.6V",
+        "package": "QFN32"
+    },
+    {
+        "id": 11,
+        "name": "BMP280",
+        "category": "Active Components",
+        "description": "Barometric pressure sensor",
+        "voltage": "1.7-3.6V",
+        "package": "LGA8"
+    },
+    {
+        "id": 12,
+        "name": "DHT11",
+        "category": "Active Components",
+        "description": "Temperature and humidity sensor",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 13,
+        "name": "DHT22",
+        "category": "Active Components",
+        "description": "High accuracy temp/humidity sensor",
+        "voltage": "3.3-6V",
+        "package": "Module"
+    },
+    {
+        "id": 14,
+        "name": "MPU6050",
+        "category": "Active Components",
+        "description": "6-axis gyro+accelerometer",
+        "voltage": "3-5V",
+        "package": "QFN24"
+    },
+    {
+        "id": 15,
+        "name": "ADXL345",
+        "category": "Active Components",
+        "description": "3-axis accelerometer",
+        "voltage": "2-3.6V",
+        "package": "LGA14"
+    },
+    {
+        "id": 16,
+        "name": "HMC5883L",
+        "category": "Active Components",
+        "description": "3-axis magnetometer",
+        "voltage": "2.16-3.6V",
+        "package": "LCC16"
+    },
+    {
+        "id": 17,
+        "name": "HC-SR04",
+        "category": "Active Components",
+        "description": "Ultrasonic distance sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 18,
+        "name": "VL53L0X",
+        "category": "Active Components",
+        "description": "Time-of-flight distance sensor",
+        "voltage": "2.6-3.5V",
+        "package": "LGA12"
+    },
+    {
+        "id": 19,
+        "name": "LM35",
+        "category": "Active Components",
+        "description": "Analog temperature sensor",
+        "voltage": "4-30V",
+        "package": "TO92"
+    },
+    {
+        "id": 20,
+        "name": "DS18B20",
+        "category": "Active Components",
+        "description": "Digital temperature sensor",
+        "voltage": "3-5.5V",
+        "package": "TO92"
+    },
+    {
+        "id": 21,
+        "name": "INA219",
+        "category": "Active Components",
+        "description": "Current/power monitor IC",
+        "voltage": "3-5.5V",
+        "package": "SOT23-8"
+    },
+    {
+        "id": 22,
+        "name": "ACS712",
+        "category": "Active Components",
+        "description": "Hall current sensor",
+        "voltage": "5V",
+        "package": "SIP8"
+    },
+    {
+        "id": 23,
+        "name": "BH1750",
+        "category": "Active Components",
+        "description": "Ambient light sensor",
+        "voltage": "2.4-3.6V",
+        "package": "SOP8"
+    },
+    {
+        "id": 24,
+        "name": "TSL2561",
+        "category": "Active Components",
+        "description": "Digital light sensor",
+        "voltage": "2.7-3.6V",
+        "package": "CSOP8"
+    },
+    {
+        "id": 25,
+        "name": "MAX30100",
+        "category": "Active Components",
+        "description": "Heart rate sensor",
+        "voltage": "1.8-3.3V",
+        "package": "LGA14"
+    },
+    {
+        "id": 26,
+        "name": "MAX6675",
+        "category": "Active Components",
+        "description": "Thermocouple interface IC",
+        "voltage": "3-5.5V",
+        "package": "SO8"
+    },
+    {
+        "id": 27,
+        "name": "SGP30",
+        "category": "Active Components",
+        "description": "Air quality sensor",
+        "voltage": "1.8-3.6V",
+        "package": "DFN10"
+    },
+    {
+        "id": 28,
+        "name": "MQ-2",
+        "category": "Active Components",
+        "description": "Gas sensor (smoke/LPG)",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 29,
+        "name": "MQ-135",
+        "category": "Active Components",
+        "description": "Air quality gas sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 30,
+        "name": "FSR402",
+        "category": "Active Components",
+        "description": "Force sensing resistor",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 41,
+        "name": "74HC595",
+        "category": "Active Components",
+        "description": "Shift register 8-bit",
+        "voltage": "2-6V",
+        "package": "DIP16"
+    },
+    {
+        "id": 42,
+        "name": "74HC165",
+        "category": "Active Components",
+        "description": "Parallel-in shift register",
+        "voltage": "2-6V",
+        "package": "DIP16"
+    },
+    {
+        "id": 43,
+        "name": "74HC00",
+        "category": "Active Components",
+        "description": "NAND gate quad",
+        "voltage": "2-6V",
+        "package": "DIP14"
+    },
+    {
+        "id": 44,
+        "name": "74HC04",
+        "category": "Active Components",
+        "description": "Hex inverter",
+        "voltage": "2-6V",
+        "package": "DIP14"
+    },
+    {
+        "id": 45,
+        "name": "74HC08",
+        "category": "Active Components",
+        "description": "AND gate quad",
+        "voltage": "2-6V",
+        "package": "DIP14"
+    },
+    {
+        "id": 46,
+        "name": "74HC32",
+        "category": "Active Components",
+        "description": "OR gate quad",
+        "voltage": "2-6V",
+        "package": "DIP14"
+    },
+    {
+        "id": 47,
+        "name": "CD4017",
+        "category": "Active Components",
+        "description": "Decade counter",
+        "voltage": "3-15V",
+        "package": "DIP16"
+    },
+    {
+        "id": 48,
+        "name": "CD4051",
+        "category": "Active Components",
+        "description": "Analog multiplexer",
+        "voltage": "3-15V",
+        "package": "DIP16"
+    },
+    {
+        "id": 49,
+        "name": "PCF8574",
+        "category": "Active Components",
+        "description": "I2C IO expander",
+        "voltage": "2.5-6V",
+        "package": "SO16"
+    },
+    {
+        "id": 50,
+        "name": "MCP23017",
+        "category": "Active Components",
+        "description": "16-bit IO expander",
+        "voltage": "1.8-5.5V",
+        "package": "DIP28"
+    },
+    {
+        "id": 51,
+        "name": "LM358",
+        "category": "Active Components",
+        "description": "Dual operational amplifier",
+        "voltage": "3-32V",
+        "package": "DIP8"
+    },
+    {
+        "id": 52,
+        "name": "LM324",
+        "category": "Active Components",
+        "description": "Quad op-amp",
+        "voltage": "3-32V",
+        "package": "DIP14"
+    },
+    {
+        "id": 53,
+        "name": "TL072",
+        "category": "Active Components",
+        "description": "Low noise op-amp",
+        "voltage": "7-36V",
+        "package": "DIP8"
+    },
+    {
+        "id": 54,
+        "name": "NE555",
+        "category": "Active Components",
+        "description": "Timer IC",
+        "voltage": "4.5-15V",
+        "package": "DIP8"
+    },
+    {
+        "id": 55,
+        "name": "ICL7660",
+        "category": "Active Components",
+        "description": "Voltage inverter",
+        "voltage": "1.5-10V",
+        "package": "DIP8"
+    },
+    {
+        "id": 56,
+        "name": "BC547",
+        "category": "Active Components",
+        "description": "NPN transistor",
+        "voltage": "45V",
+        "package": "TO92"
+    },
+    {
+        "id": 57,
+        "name": "BC557",
+        "category": "Active Components",
+        "description": "PNP transistor",
+        "voltage": "45V",
+        "package": "TO92"
+    },
+    {
+        "id": 58,
+        "name": "2N2222",
+        "category": "Active Components",
+        "description": "NPN transistor general purpose",
+        "voltage": "40V",
+        "package": "TO92"
+    },
+    {
+        "id": 59,
+        "name": "2N3904",
+        "category": "Active Components",
+        "description": "NPN transistor",
+        "voltage": "40V",
+        "package": "TO92"
+    },
+    {
+        "id": 60,
+        "name": "2N3906",
+        "category": "Active Components",
+        "description": "PNP transistor",
+        "voltage": "40V",
+        "package": "TO92"
+    },
+    {
+        "id": 61,
+        "name": "IRF540",
+        "category": "Active Components",
+        "description": "N-channel MOSFET",
+        "voltage": "100V",
+        "package": "TO220"
+    },
+    {
+        "id": 62,
+        "name": "IRLZ44N",
+        "category": "Active Components",
+        "description": "Logic level MOSFET",
+        "voltage": "55V",
+        "package": "TO220"
+    },
+    {
+        "id": 63,
+        "name": "AO3400",
+        "category": "Active Components",
+        "description": "N-MOSFET SMD",
+        "voltage": "30V",
+        "package": "SOT23"
+    },
+    {
+        "id": 64,
+        "name": "BS170",
+        "category": "Active Components",
+        "description": "N-channel MOSFET small signal",
+        "voltage": "60V",
+        "package": "TO92"
+    },
+    {
+        "id": 65,
+        "name": "FQP30N06L",
+        "category": "Active Components",
+        "description": "Logic MOSFET",
+        "voltage": "60V",
+        "package": "TO220"
+    },
+    {
+        "id": 66,
+        "name": "1N4007",
+        "category": "Active Components",
+        "description": "Rectifier diode 1A",
+        "voltage": "1000V",
+        "package": "DO41"
+    },
+    {
+        "id": 67,
+        "name": "1N5819",
+        "category": "Active Components",
+        "description": "Schottky diode",
+        "voltage": "40V",
+        "package": "DO41"
+    },
+    {
+        "id": 68,
+        "name": "1N4148",
+        "category": "Active Components",
+        "description": "Fast switching diode",
+        "voltage": "100V",
+        "package": "DO35"
+    },
+    {
+        "id": 69,
+        "name": "SS14",
+        "category": "Active Components",
+        "description": "Schottky SMD diode",
+        "voltage": "40V",
+        "package": "SMA"
+    },
+    {
+        "id": 70,
+        "name": "BAT54",
+        "category": "Active Components",
+        "description": "Schottky diode SMD",
+        "voltage": "30V",
+        "package": "SOT23"
+    },
+    {
+        "id": 71,
+        "name": "LED Red",
+        "category": "Active Components",
+        "description": "Red LED indicator",
+        "voltage": "2V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 72,
+        "name": "LED RGB",
+        "category": "Active Components",
+        "description": "RGB LED",
+        "voltage": "2-3V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 73,
+        "name": "PC817",
+        "category": "Active Components",
+        "description": "Optocoupler",
+        "voltage": "5V",
+        "package": "DIP4"
+    },
+    {
+        "id": 74,
+        "name": "4N35",
+        "category": "Active Components",
+        "description": "Optocoupler transistor output",
+        "voltage": "5V",
+        "package": "DIP6"
+    },
+    {
+        "id": 90,
+        "name": "OLED 0.96 SSD1306",
+        "category": "Active Components",
+        "description": "OLED display I2C",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 91,
+        "name": "LCD 16x2",
+        "category": "Active Components",
+        "description": "Character LCD",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 92,
+        "name": "TFT ILI9341",
+        "category": "Active Components",
+        "description": "TFT LCD SPI",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 96,
+        "name": "ESP32-CAM",
+        "category": "Active Components",
+        "description": "ESP32 with camera module",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 97,
+        "name": "CH340G",
+        "category": "Active Components",
+        "description": "USB to UART converter",
+        "voltage": "5V",
+        "package": "SO16"
+    },
+    {
+        "id": 98,
+        "name": "CP2102",
+        "category": "Active Components",
+        "description": "USB-UART bridge",
+        "voltage": "3.3-5V",
+        "package": "QFN28"
+    },
+    {
+        "id": 99,
+        "name": "FT232RL",
+        "category": "Active Components",
+        "description": "USB UART IC",
+        "voltage": "3.3-5V",
+        "package": "SSOP28"
+    },
+    {
+        "id": 100,
+        "name": "MAX485",
+        "category": "Active Components",
+        "description": "RS485 transceiver",
+        "voltage": "5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 101,
+        "name": "STM32F030F4P6",
+        "category": "Active Components",
+        "description": "Cortex-M0 MCU low cost",
+        "voltage": "2.4-3.6V",
+        "package": "TSSOP20"
+    },
+    {
+        "id": 102,
+        "name": "STM32L072CZ",
+        "category": "Active Components",
+        "description": "Ultra low power MCU",
+        "voltage": "1.65-3.6V",
+        "package": "LQFP48"
+    },
+    {
+        "id": 103,
+        "name": "STM32H743ZI",
+        "category": "Active Components",
+        "description": "High performance Cortex-M7 MCU",
+        "voltage": "1.62-3.6V",
+        "package": "LQFP144"
+    },
+    {
+        "id": 104,
+        "name": "ATtiny85",
+        "category": "Active Components",
+        "description": "Small AVR MCU",
+        "voltage": "2.7-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 105,
+        "name": "ATtiny13A",
+        "category": "Active Components",
+        "description": "Low cost MCU",
+        "voltage": "1.8-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 106,
+        "name": "PIC18F4550",
+        "category": "Active Components",
+        "description": "USB microcontroller",
+        "voltage": "2.0-5.5V",
+        "package": "DIP40"
+    },
+    {
+        "id": 107,
+        "name": "ESP32-S3",
+        "category": "Active Components",
+        "description": "AI acceleration MCU",
+        "voltage": "3.0-3.6V",
+        "package": "QFN56"
+    },
+    {
+        "id": 108,
+        "name": "ESP32-C3",
+        "category": "Active Components",
+        "description": "RISC-V WiFi MCU",
+        "voltage": "3.0-3.6V",
+        "package": "QFN32"
+    },
+    {
+        "id": 109,
+        "name": "NRF52832",
+        "category": "Active Components",
+        "description": "BLE MCU low power",
+        "voltage": "1.7-3.6V",
+        "package": "QFN48"
+    },
+    {
+        "id": 110,
+        "name": "GD32F103",
+        "category": "Active Components",
+        "description": "STM32 compatible MCU",
+        "voltage": "2.6-3.6V",
+        "package": "LQFP48"
+    },
+    {
+        "id": 111,
+        "name": "BME280",
+        "category": "Active Components",
+        "description": "Temp humidity pressure sensor",
+        "voltage": "1.7-3.6V",
+        "package": "LGA8"
+    },
+    {
+        "id": 112,
+        "name": "SI7021",
+        "category": "Active Components",
+        "description": "Humidity sensor",
+        "voltage": "1.9-3.6V",
+        "package": "DFN6"
+    },
+    {
+        "id": 113,
+        "name": "HTU21D",
+        "category": "Active Components",
+        "description": "Digital humidity sensor",
+        "voltage": "1.5-3.6V",
+        "package": "DFN6"
+    },
+    {
+        "id": 114,
+        "name": "LIS3DH",
+        "category": "Active Components",
+        "description": "3-axis accelerometer",
+        "voltage": "1.7-3.6V",
+        "package": "LGA16"
+    },
+    {
+        "id": 115,
+        "name": "MPU9250",
+        "category": "Active Components",
+        "description": "9-axis IMU",
+        "voltage": "2.4-3.6V",
+        "package": "QFN24"
+    },
+    {
+        "id": 116,
+        "name": "ICM20948",
+        "category": "Active Components",
+        "description": "9-axis IMU advanced",
+        "voltage": "1.8-3.3V",
+        "package": "QFN24"
+    },
+    {
+        "id": 117,
+        "name": "VL6180X",
+        "category": "Active Components",
+        "description": "Distance + ALS sensor",
+        "voltage": "2.6-3.5V",
+        "package": "LGA"
+    },
+    {
+        "id": 118,
+        "name": "TFMini Plus",
+        "category": "Active Components",
+        "description": "Lidar distance sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 119,
+        "name": "AM2320",
+        "category": "Active Components",
+        "description": "Temp humidity sensor I2C",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 120,
+        "name": "SHT31",
+        "category": "Active Components",
+        "description": "High precision humidity sensor",
+        "voltage": "2.4-5.5V",
+        "package": "DFN8"
+    },
+    {
+        "id": 121,
+        "name": "MAX44009",
+        "category": "Active Components",
+        "description": "Ambient light sensor low power",
+        "voltage": "1.7-3.6V",
+        "package": "UTDFN6"
+    },
+    {
+        "id": 122,
+        "name": "VEML7700",
+        "category": "Active Components",
+        "description": "High accuracy light sensor",
+        "voltage": "2.5-3.6V",
+        "package": "QFN6"
+    },
+    {
+        "id": 123,
+        "name": "INA226",
+        "category": "Active Components",
+        "description": "Current monitor I2C",
+        "voltage": "2.7-5.5V",
+        "package": "MSOP10"
+    },
+    {
+        "id": 124,
+        "name": "INA260",
+        "category": "Active Components",
+        "description": "Integrated current sensor",
+        "voltage": "2.7-5.5V",
+        "package": "QFN16"
+    },
+    {
+        "id": 125,
+        "name": "ADS1115",
+        "category": "Active Components",
+        "description": "16-bit ADC I2C",
+        "voltage": "2-5.5V",
+        "package": "VSSOP10"
+    },
+    {
+        "id": 126,
+        "name": "ADS1015",
+        "category": "Active Components",
+        "description": "12-bit ADC I2C",
+        "voltage": "2-5.5V",
+        "package": "VSSOP10"
+    },
+    {
+        "id": 127,
+        "name": "MCP3008",
+        "category": "Active Components",
+        "description": "10-bit SPI ADC",
+        "voltage": "2.7-5.5V",
+        "package": "DIP16"
+    },
+    {
+        "id": 128,
+        "name": "MCP3208",
+        "category": "Active Components",
+        "description": "12-bit SPI ADC",
+        "voltage": "2.7-5.5V",
+        "package": "DIP16"
+    },
+    {
+        "id": 129,
+        "name": "DAC MCP4725",
+        "category": "Active Components",
+        "description": "12-bit DAC I2C",
+        "voltage": "2.7-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 130,
+        "name": "AD5683",
+        "category": "Active Components",
+        "description": "16-bit DAC",
+        "voltage": "2.7-5.5V",
+        "package": "TSSOP8"
+    },
+    {
+        "id": 141,
+        "name": "74HC138",
+        "category": "Active Components",
+        "description": "3-to-8 decoder",
+        "voltage": "2-6V",
+        "package": "DIP16"
+    },
+    {
+        "id": 142,
+        "name": "74HC148",
+        "category": "Active Components",
+        "description": "Priority encoder",
+        "voltage": "2-6V",
+        "package": "DIP16"
+    },
+    {
+        "id": 143,
+        "name": "74HC373",
+        "category": "Active Components",
+        "description": "Latch IC",
+        "voltage": "2-6V",
+        "package": "DIP20"
+    },
+    {
+        "id": 144,
+        "name": "74HC574",
+        "category": "Active Components",
+        "description": "Octal flip-flop",
+        "voltage": "2-6V",
+        "package": "DIP20"
+    },
+    {
+        "id": 145,
+        "name": "CD4020",
+        "category": "Active Components",
+        "description": "14-stage ripple counter",
+        "voltage": "3-15V",
+        "package": "DIP16"
+    },
+    {
+        "id": 146,
+        "name": "CD4060",
+        "category": "Active Components",
+        "description": "Oscillator counter",
+        "voltage": "3-15V",
+        "package": "DIP16"
+    },
+    {
+        "id": 147,
+        "name": "ULN2003",
+        "category": "Active Components",
+        "description": "Relay driver array",
+        "voltage": "5V",
+        "package": "DIP16"
+    },
+    {
+        "id": 148,
+        "name": "ULN2803",
+        "category": "Active Components",
+        "description": "8-channel driver",
+        "voltage": "5V",
+        "package": "DIP18"
+    },
+    {
+        "id": 149,
+        "name": "MAX232",
+        "category": "Active Components",
+        "description": "RS232 level converter",
+        "voltage": "5V",
+        "package": "DIP16"
+    },
+    {
+        "id": 150,
+        "name": "SP3485",
+        "category": "Active Components",
+        "description": "RS485 transceiver",
+        "voltage": "3.3V",
+        "package": "SO8"
+    },
+    {
+        "id": 151,
+        "name": "OPA2134",
+        "category": "Active Components",
+        "description": "Audio op-amp",
+        "voltage": "5-36V",
+        "package": "DIP8"
+    },
+    {
+        "id": 152,
+        "name": "OPA333",
+        "category": "Active Components",
+        "description": "Precision op-amp",
+        "voltage": "1.8-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 153,
+        "name": "TLV2372",
+        "category": "Active Components",
+        "description": "Rail-to-rail op-amp",
+        "voltage": "2.7-16V",
+        "package": "DIP8"
+    },
+    {
+        "id": 154,
+        "name": "LM393",
+        "category": "Active Components",
+        "description": "Comparator dual",
+        "voltage": "2-36V",
+        "package": "DIP8"
+    },
+    {
+        "id": 155,
+        "name": "LM311",
+        "category": "Active Components",
+        "description": "Voltage comparator",
+        "voltage": "5-30V",
+        "package": "DIP8"
+    },
+    {
+        "id": 156,
+        "name": "S8050",
+        "category": "Active Components",
+        "description": "NPN transistor",
+        "voltage": "25V",
+        "package": "TO92"
+    },
+    {
+        "id": 157,
+        "name": "S8550",
+        "category": "Active Components",
+        "description": "PNP transistor",
+        "voltage": "25V",
+        "package": "TO92"
+    },
+    {
+        "id": 158,
+        "name": "BD139",
+        "category": "Active Components",
+        "description": "NPN power transistor",
+        "voltage": "80V",
+        "package": "TO126"
+    },
+    {
+        "id": 159,
+        "name": "BD140",
+        "category": "Active Components",
+        "description": "PNP power transistor",
+        "voltage": "80V",
+        "package": "TO126"
+    },
+    {
+        "id": 160,
+        "name": "MJE3055",
+        "category": "Active Components",
+        "description": "NPN power transistor",
+        "voltage": "60V",
+        "package": "TO220"
+    },
+    {
+        "id": 161,
+        "name": "IRF3205",
+        "category": "Active Components",
+        "description": "High current MOSFET",
+        "voltage": "55V",
+        "package": "TO220"
+    },
+    {
+        "id": 162,
+        "name": "IRFZ44N",
+        "category": "Active Components",
+        "description": "N-channel MOSFET",
+        "voltage": "55V",
+        "package": "TO220"
+    },
+    {
+        "id": 163,
+        "name": "IRL540",
+        "category": "Active Components",
+        "description": "Logic MOSFET",
+        "voltage": "100V",
+        "package": "TO220"
+    },
+    {
+        "id": 164,
+        "name": "SI2302",
+        "category": "Active Components",
+        "description": "N-MOSFET SMD",
+        "voltage": "20V",
+        "package": "SOT23"
+    },
+    {
+        "id": 165,
+        "name": "SI2301",
+        "category": "Active Components",
+        "description": "P-MOSFET SMD",
+        "voltage": "20V",
+        "package": "SOT23"
+    },
+    {
+        "id": 166,
+        "name": "FR107",
+        "category": "Active Components",
+        "description": "Fast diode",
+        "voltage": "1000V",
+        "package": "DO41"
+    },
+    {
+        "id": 167,
+        "name": "UF4007",
+        "category": "Active Components",
+        "description": "Ultra fast diode",
+        "voltage": "1000V",
+        "package": "DO41"
+    },
+    {
+        "id": 168,
+        "name": "MB6S",
+        "category": "Active Components",
+        "description": "Bridge rectifier",
+        "voltage": "600V",
+        "package": "SOP4"
+    },
+    {
+        "id": 169,
+        "name": "DB107",
+        "category": "Active Components",
+        "description": "Bridge rectifier",
+        "voltage": "1000V",
+        "package": "DIP4"
+    },
+    {
+        "id": 170,
+        "name": "SMBJ5.0A",
+        "category": "Active Components",
+        "description": "TVS diode",
+        "voltage": "5V",
+        "package": "SMB"
+    },
+    {
+        "id": 171,
+        "name": "LED Blue",
+        "category": "Active Components",
+        "description": "Blue LED",
+        "voltage": "3V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 172,
+        "name": "LED Green",
+        "category": "Active Components",
+        "description": "Green LED",
+        "voltage": "2V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 173,
+        "name": "WS2812B",
+        "category": "Active Components",
+        "description": "Addressable RGB LED",
+        "voltage": "5V",
+        "package": "SMD5050"
+    },
+    {
+        "id": 174,
+        "name": "APA102",
+        "category": "Active Components",
+        "description": "Smart RGB LED",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 175,
+        "name": "PC123",
+        "category": "Active Components",
+        "description": "Optocoupler",
+        "voltage": "5V",
+        "package": "DIP4"
+    },
+    {
+        "id": 176,
+        "name": "TLP521",
+        "category": "Active Components",
+        "description": "Optocoupler",
+        "voltage": "5V",
+        "package": "DIP4"
+    },
+    {
+        "id": 190,
+        "name": "E-paper Display",
+        "category": "Active Components",
+        "description": "E-ink display module",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 191,
+        "name": "Nextion Display",
+        "category": "Active Components",
+        "description": "Smart TFT display",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 195,
+        "name": "ESP8285",
+        "category": "Active Components",
+        "description": "ESP8266 with flash",
+        "voltage": "3.3V",
+        "package": "QFN32"
+    },
+    {
+        "id": 196,
+        "name": "RTL8720DN",
+        "category": "Active Components",
+        "description": "WiFi+BLE module",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 197,
+        "name": "CH9102F",
+        "category": "Active Components",
+        "description": "USB-UART IC",
+        "voltage": "5V",
+        "package": "QFN20"
+    },
+    {
+        "id": 198,
+        "name": "CP2104",
+        "category": "Active Components",
+        "description": "USB-UART bridge",
+        "voltage": "3.3V",
+        "package": "QFN24"
+    },
+    {
+        "id": 199,
+        "name": "FT231X",
+        "category": "Active Components",
+        "description": "USB UART IC",
+        "voltage": "3.3V",
+        "package": "SSOP20"
+    },
+    {
+        "id": 200,
+        "name": "SN65HVD230",
+        "category": "Active Components",
+        "description": "CAN transceiver",
+        "voltage": "3.3V",
+        "package": "SO8"
+    },
+    {
+        "id": 201,
+        "name": "MCP2551",
+        "category": "Active Components",
+        "description": "CAN transceiver",
+        "voltage": "5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 202,
+        "name": "TJA1050",
+        "category": "Active Components",
+        "description": "CAN transceiver",
+        "voltage": "5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 203,
+        "name": "L298N",
+        "category": "Active Components",
+        "description": "Dual H-bridge motor driver",
+        "voltage": "5-35V",
+        "package": "Multiwatt15"
+    },
+    {
+        "id": 204,
+        "name": "L293D",
+        "category": "Active Components",
+        "description": "Motor driver IC",
+        "voltage": "4.5-36V",
+        "package": "DIP16"
+    },
+    {
+        "id": 205,
+        "name": "DRV8833",
+        "category": "Active Components",
+        "description": "Motor driver low voltage",
+        "voltage": "2.7-10.8V",
+        "package": "HTSSOP16"
+    },
+    {
+        "id": 206,
+        "name": "A4988",
+        "category": "Active Components",
+        "description": "Stepper driver",
+        "voltage": "8-35V",
+        "package": "Module"
+    },
+    {
+        "id": 207,
+        "name": "DRV8825",
+        "category": "Active Components",
+        "description": "Stepper driver",
+        "voltage": "8-45V",
+        "package": "Module"
+    },
+    {
+        "id": 208,
+        "name": "TMC2208",
+        "category": "Active Components",
+        "description": "Silent stepper driver",
+        "voltage": "4.75-36V",
+        "package": "Module"
+    },
+    {
+        "id": 209,
+        "name": "TMC2209",
+        "category": "Active Components",
+        "description": "Advanced stepper driver",
+        "voltage": "4.75-29V",
+        "package": "Module"
+    },
+    {
+        "id": 210,
+        "name": "ACS758",
+        "category": "Active Components",
+        "description": "High current sensor",
+        "voltage": "5V",
+        "package": "CB-PFF"
+    },
+    {
+        "id": 211,
+        "name": "INA3221",
+        "category": "Active Components",
+        "description": "3-channel current sensor",
+        "voltage": "2.7-5.5V",
+        "package": "TSSOP16"
+    },
+    {
+        "id": 212,
+        "name": "MAX31855",
+        "category": "Active Components",
+        "description": "Thermocouple interface",
+        "voltage": "3-3.6V",
+        "package": "SO8"
+    },
+    {
+        "id": 213,
+        "name": "DS3231",
+        "category": "Active Components",
+        "description": "RTC high precision",
+        "voltage": "2.3-5.5V",
+        "package": "SO16"
+    },
+    {
+        "id": 214,
+        "name": "PCF8563",
+        "category": "Active Components",
+        "description": "RTC low power",
+        "voltage": "1.8-5.5V",
+        "package": "SOP8"
+    },
+    {
+        "id": 215,
+        "name": "EEPROM 24LC256",
+        "category": "Active Components",
+        "description": "I2C EEPROM",
+        "voltage": "2.5-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 216,
+        "name": "Flash W25Q64",
+        "category": "Active Components",
+        "description": "SPI flash memory",
+        "voltage": "2.7-3.6V",
+        "package": "SOP8"
+    },
+    {
+        "id": 217,
+        "name": "LM75",
+        "category": "Active Components",
+        "description": "Temperature sensor I2C",
+        "voltage": "2.8-5.5V",
+        "package": "SO8"
+    },
+    {
+        "id": 218,
+        "name": "TMP36",
+        "category": "Active Components",
+        "description": "Analog temperature sensor",
+        "voltage": "2.7-5.5V",
+        "package": "TO92"
+    },
+    {
+        "id": 219,
+        "name": "Hall Sensor A3144",
+        "category": "Active Components",
+        "description": "Magnetic sensor",
+        "voltage": "4.5-24V",
+        "package": "TO92"
+    },
+    {
+        "id": 223,
+        "name": "Logic Level Shifter",
+        "category": "Active Components",
+        "description": "Voltage level converter",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 224,
+        "name": "PCA9685",
+        "category": "Active Components",
+        "description": "16-channel PWM driver",
+        "voltage": "2.3-5.5V",
+        "package": "TSSOP28"
+    },
+    {
+        "id": 225,
+        "name": "ADS1256",
+        "category": "Active Components",
+        "description": "24-bit ADC",
+        "voltage": "5V",
+        "package": "TQFP"
+    },
+    {
+        "id": 226,
+        "name": "AD620",
+        "category": "Active Components",
+        "description": "Instrumentation amplifier",
+        "voltage": "4.6-36V",
+        "package": "DIP8"
+    },
+    {
+        "id": 227,
+        "name": "NRF24L01",
+        "category": "Active Components",
+        "description": "2.4GHz RF module",
+        "voltage": "1.9-3.6V",
+        "package": "Module"
+    },
+    {
+        "id": 228,
+        "name": "LoRa SX1278",
+        "category": "Active Components",
+        "description": "Long range RF module",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 229,
+        "name": "GPS NEO-6M",
+        "category": "Active Components",
+        "description": "GPS module",
+        "voltage": "3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 230,
+        "name": "Quectel EC25",
+        "category": "Active Components",
+        "description": "4G LTE module",
+        "voltage": "3.3-4.3V",
+        "package": "Module"
+    },
+    {
+        "id": 237,
+        "name": "Touch Sensor TTP223",
+        "category": "Active Components",
+        "description": "Capacitive touch sensor",
+        "voltage": "2-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 238,
+        "name": "Capacitive Touch IC MPR121",
+        "category": "Active Components",
+        "description": "12-channel touch sensor",
+        "voltage": "1.7-3.6V",
+        "package": "QFN"
+    },
+    {
+        "id": 239,
+        "name": "Infrared Receiver TSOP1838",
+        "category": "Active Components",
+        "description": "IR receiver",
+        "voltage": "2.5-5.5V",
+        "package": "DIP3"
+    },
+    {
+        "id": 240,
+        "name": "IR LED",
+        "category": "Active Components",
+        "description": "Infrared emitter",
+        "voltage": "1.2V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 241,
+        "name": "Sound Sensor Module",
+        "category": "Active Components",
+        "description": "Microphone module",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 242,
+        "name": "MAX4466",
+        "category": "Active Components",
+        "description": "Microphone amplifier",
+        "voltage": "2.4-5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 243,
+        "name": "Pressure Sensor MPX5010",
+        "category": "Active Components",
+        "description": "Pressure sensor",
+        "voltage": "5V",
+        "package": "Package"
+    },
+    {
+        "id": 244,
+        "name": "Load Cell 5kg",
+        "category": "Active Components",
+        "description": "Weight sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 245,
+        "name": "HX711",
+        "category": "Active Components",
+        "description": "Load cell ADC",
+        "voltage": "2.7-5.5V",
+        "package": "SOP16"
+    },
+    {
+        "id": 250,
+        "name": "Bluetooth Module HC-05",
+        "category": "Active Components",
+        "description": "Bluetooth module",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 251,
+        "name": "Bluetooth HM-10",
+        "category": "Active Components",
+        "description": "BLE module low energy",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 252,
+        "name": "Zigbee CC2530",
+        "category": "Active Components",
+        "description": "Zigbee wireless MCU",
+        "voltage": "2-3.6V",
+        "package": "QFN40"
+    },
+    {
+        "id": 253,
+        "name": "CC1101 RF Module",
+        "category": "Active Components",
+        "description": "Sub-GHz RF transceiver",
+        "voltage": "1.8-3.6V",
+        "package": "Module"
+    },
+    {
+        "id": 254,
+        "name": "SX1262 LoRa",
+        "category": "Active Components",
+        "description": "LoRa transceiver new gen",
+        "voltage": "1.8-3.7V",
+        "package": "QFN24"
+    },
+    {
+        "id": 255,
+        "name": "NRF905",
+        "category": "Active Components",
+        "description": "433MHz RF module",
+        "voltage": "1.9-3.6V",
+        "package": "Module"
+    },
+    {
+        "id": 256,
+        "name": "ESP32-WROVER",
+        "category": "Active Components",
+        "description": "ESP32 with PSRAM",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 257,
+        "name": "ESP32-PICO-D4",
+        "category": "Active Components",
+        "description": "Integrated ESP32 SiP",
+        "voltage": "3.0-3.6V",
+        "package": "QFN48"
+    },
+    {
+        "id": 258,
+        "name": "STM32G071RB",
+        "category": "Active Components",
+        "description": "Cortex-M0+ MCU",
+        "voltage": "1.7-3.6V",
+        "package": "LQFP64"
+    },
+    {
+        "id": 259,
+        "name": "STM32L496ZG",
+        "category": "Active Components",
+        "description": "Ultra low power MCU",
+        "voltage": "1.71-3.6V",
+        "package": "LQFP144"
+    },
+    {
+        "id": 260,
+        "name": "GD32F303",
+        "category": "Active Components",
+        "description": "High speed MCU clone STM32",
+        "voltage": "2.6-3.6V",
+        "package": "LQFP64"
+    },
+    {
+        "id": 261,
+        "name": "SHT85",
+        "category": "Active Components",
+        "description": "High precision humidity sensor",
+        "voltage": "2.4-5.5V",
+        "package": "DFN"
+    },
+    {
+        "id": 262,
+        "name": "BME680",
+        "category": "Active Components",
+        "description": "Gas + humidity sensor",
+        "voltage": "1.7-3.6V",
+        "package": "LGA8"
+    },
+    {
+        "id": 263,
+        "name": "CCS811",
+        "category": "Active Components",
+        "description": "Air quality sensor VOC",
+        "voltage": "1.8-3.6V",
+        "package": "LGA10"
+    },
+    {
+        "id": 264,
+        "name": "MLX90614",
+        "category": "Active Components",
+        "description": "Infrared temperature sensor",
+        "voltage": "3-5V",
+        "package": "TO39"
+    },
+    {
+        "id": 265,
+        "name": "AMG8833",
+        "category": "Active Components",
+        "description": "Thermal camera sensor 8x8",
+        "voltage": "3.3V",
+        "package": "LGA"
+    },
+    {
+        "id": 266,
+        "name": "VL53L1X",
+        "category": "Active Components",
+        "description": "Advanced ToF sensor",
+        "voltage": "2.6-3.5V",
+        "package": "LGA"
+    },
+    {
+        "id": 267,
+        "name": "OPT3001",
+        "category": "Active Components",
+        "description": "Light sensor high precision",
+        "voltage": "1.6-3.6V",
+        "package": "WCSP6"
+    },
+    {
+        "id": 268,
+        "name": "TCS34725",
+        "category": "Active Components",
+        "description": "RGB color sensor",
+        "voltage": "2.7-3.6V",
+        "package": "DFN8"
+    },
+    {
+        "id": 269,
+        "name": "AS5600",
+        "category": "Active Components",
+        "description": "Magnetic encoder",
+        "voltage": "3.3V",
+        "package": "SOIC8"
+    },
+    {
+        "id": 270,
+        "name": "MAX6674",
+        "category": "Active Components",
+        "description": "Thermocouple ADC",
+        "voltage": "3-5.5V",
+        "package": "SO8"
+    },
+    {
+        "id": 276,
+        "name": "74HC14",
+        "category": "Active Components",
+        "description": "Schmitt trigger inverter",
+        "voltage": "2-6V",
+        "package": "DIP14"
+    },
+    {
+        "id": 277,
+        "name": "74HC125",
+        "category": "Active Components",
+        "description": "Bus buffer IC",
+        "voltage": "2-6V",
+        "package": "DIP14"
+    },
+    {
+        "id": 278,
+        "name": "74HC595D",
+        "category": "Active Components",
+        "description": "Shift register SMD",
+        "voltage": "2-6V",
+        "package": "SO16"
+    },
+    {
+        "id": 279,
+        "name": "CD4093",
+        "category": "Active Components",
+        "description": "NAND Schmitt trigger",
+        "voltage": "3-15V",
+        "package": "DIP14"
+    },
+    {
+        "id": 280,
+        "name": "HEF40106",
+        "category": "Active Components",
+        "description": "Hex Schmitt trigger",
+        "voltage": "3-15V",
+        "package": "DIP14"
+    },
+    {
+        "id": 281,
+        "name": "LM2904",
+        "category": "Active Components",
+        "description": "Dual op-amp automotive",
+        "voltage": "3-32V",
+        "package": "DIP8"
+    },
+    {
+        "id": 282,
+        "name": "OPA344",
+        "category": "Active Components",
+        "description": "Rail-to-rail op-amp",
+        "voltage": "2.5-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 283,
+        "name": "MCP6002",
+        "category": "Active Components",
+        "description": "Low power op-amp",
+        "voltage": "1.8-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 286,
+        "name": "2SA1015",
+        "category": "Active Components",
+        "description": "PNP transistor",
+        "voltage": "50V",
+        "package": "TO92"
+    },
+    {
+        "id": 287,
+        "name": "2SC1815",
+        "category": "Active Components",
+        "description": "NPN transistor",
+        "voltage": "50V",
+        "package": "TO92"
+    },
+    {
+        "id": 288,
+        "name": "SS8050",
+        "category": "Active Components",
+        "description": "NPN transistor SMD",
+        "voltage": "25V",
+        "package": "SOT23"
+    },
+    {
+        "id": 289,
+        "name": "SS8550",
+        "category": "Active Components",
+        "description": "PNP transistor SMD",
+        "voltage": "25V",
+        "package": "SOT23"
+    },
+    {
+        "id": 290,
+        "name": "BD911",
+        "category": "Active Components",
+        "description": "NPN power transistor",
+        "voltage": "100V",
+        "package": "TO220"
+    },
+    {
+        "id": 291,
+        "name": "IRF4905",
+        "category": "Active Components",
+        "description": "P-channel MOSFET",
+        "voltage": "55V",
+        "package": "TO220"
+    },
+    {
+        "id": 292,
+        "name": "IRLML6344",
+        "category": "Active Components",
+        "description": "N-MOSFET SMD",
+        "voltage": "30V",
+        "package": "SOT23"
+    },
+    {
+        "id": 293,
+        "name": "AO4407",
+        "category": "Active Components",
+        "description": "P-MOSFET SMD",
+        "voltage": "30V",
+        "package": "SO8"
+    },
+    {
+        "id": 294,
+        "name": "FDN306P",
+        "category": "Active Components",
+        "description": "P-MOSFET small signal",
+        "voltage": "20V",
+        "package": "SOT23"
+    },
+    {
+        "id": 295,
+        "name": "SI4435",
+        "category": "Active Components",
+        "description": "P-channel MOSFET",
+        "voltage": "30V",
+        "package": "SO8"
+    },
+    {
+        "id": 296,
+        "name": "ESD5Z5.0",
+        "category": "Active Components",
+        "description": "ESD protection diode",
+        "voltage": "5V",
+        "package": "SOD523"
+    },
+    {
+        "id": 297,
+        "name": "SMBJ12A",
+        "category": "Active Components",
+        "description": "TVS diode 12V",
+        "voltage": "12V",
+        "package": "SMB"
+    },
+    {
+        "id": 298,
+        "name": "BAV99",
+        "category": "Active Components",
+        "description": "Switching diode dual",
+        "voltage": "70V",
+        "package": "SOT23"
+    },
+    {
+        "id": 299,
+        "name": "HER108",
+        "category": "Active Components",
+        "description": "Fast rectifier diode",
+        "voltage": "1000V",
+        "package": "DO41"
+    },
+    {
+        "id": 300,
+        "name": "MB10S",
+        "category": "Active Components",
+        "description": "Bridge rectifier SMD",
+        "voltage": "1000V",
+        "package": "SOP4"
+    },
+    {
+        "id": 301,
+        "name": "LED White",
+        "category": "Active Components",
+        "description": "White LED",
+        "voltage": "3V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 302,
+        "name": "LED IR",
+        "category": "Active Components",
+        "description": "Infrared LED",
+        "voltage": "1.2V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 303,
+        "name": "WS2811",
+        "category": "Active Components",
+        "description": "LED driver IC",
+        "voltage": "5V",
+        "package": "SOP8"
+    },
+    {
+        "id": 304,
+        "name": "SK6812",
+        "category": "Active Components",
+        "description": "RGB LED similar WS2812",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 305,
+        "name": "Optocoupler EL817",
+        "category": "Active Components",
+        "description": "Optocoupler general",
+        "voltage": "5V",
+        "package": "DIP4"
+    },
+    {
+        "id": 306,
+        "name": "Optocoupler LTV817",
+        "category": "Active Components",
+        "description": "Optocoupler",
+        "voltage": "5V",
+        "package": "DIP4"
+    },
+    {
+        "id": 320,
+        "name": "OLED 1.3 SSD1306",
+        "category": "Active Components",
+        "description": "OLED display larger",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 321,
+        "name": "TFT ST7735",
+        "category": "Active Components",
+        "description": "Small TFT display SPI",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 325,
+        "name": "ESP32-C6",
+        "category": "Active Components",
+        "description": "WiFi6 + BLE MCU",
+        "voltage": "3.3V",
+        "package": "QFN40"
+    },
+    {
+        "id": 326,
+        "name": "RTL8710",
+        "category": "Active Components",
+        "description": "WiFi module low cost",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 327,
+        "name": "CH340C",
+        "category": "Active Components",
+        "description": "USB UART IC",
+        "voltage": "5V",
+        "package": "SOP16"
+    },
+    {
+        "id": 328,
+        "name": "CP2108",
+        "category": "Active Components",
+        "description": "USB-UART 4 channel",
+        "voltage": "3.3V",
+        "package": "QFN32"
+    },
+    {
+        "id": 329,
+        "name": "SN75176",
+        "category": "Active Components",
+        "description": "RS485 transceiver",
+        "voltage": "5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 330,
+        "name": "ADM485",
+        "category": "Active Components",
+        "description": "RS485 transceiver",
+        "voltage": "5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 331,
+        "name": "L6206",
+        "category": "Active Components",
+        "description": "Dual motor driver",
+        "voltage": "8-52V",
+        "package": "PowerSO36"
+    },
+    {
+        "id": 332,
+        "name": "BTS7960",
+        "category": "Active Components",
+        "description": "High power motor driver",
+        "voltage": "5-27V",
+        "package": "Module"
+    },
+    {
+        "id": 333,
+        "name": "ACS723",
+        "category": "Active Components",
+        "description": "Current sensor low current",
+        "voltage": "5V",
+        "package": "SOIC8"
+    },
+    {
+        "id": 334,
+        "name": "MAX31865",
+        "category": "Active Components",
+        "description": "RTD sensor interface",
+        "voltage": "3.3V",
+        "package": "TQFN"
+    },
+    {
+        "id": 335,
+        "name": "RTC DS1307",
+        "category": "Active Components",
+        "description": "Real time clock",
+        "voltage": "5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 336,
+        "name": "PCF8523",
+        "category": "Active Components",
+        "description": "RTC low power",
+        "voltage": "1.8-5.5V",
+        "package": "SOP8"
+    },
+    {
+        "id": 337,
+        "name": "EEPROM 24C02",
+        "category": "Active Components",
+        "description": "I2C EEPROM",
+        "voltage": "2.5-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 338,
+        "name": "Flash W25Q128",
+        "category": "Active Components",
+        "description": "SPI flash 128Mbit",
+        "voltage": "2.7-3.6V",
+        "package": "SOP8"
+    },
+    {
+        "id": 339,
+        "name": "TMP102",
+        "category": "Active Components",
+        "description": "Digital temp sensor",
+        "voltage": "1.4-3.6V",
+        "package": "SOT23"
+    },
+    {
+        "id": 340,
+        "name": "LM60",
+        "category": "Active Components",
+        "description": "Analog temp sensor",
+        "voltage": "2.7-10V",
+        "package": "TO92"
+    },
+    {
+        "id": 341,
+        "name": "Hall Sensor DRV5053",
+        "category": "Active Components",
+        "description": "Linear hall sensor",
+        "voltage": "2.5-38V",
+        "package": "SOT23"
+    },
+    {
+        "id": 345,
+        "name": "Level Shifter TXS0108E",
+        "category": "Active Components",
+        "description": "8-bit level shifter",
+        "voltage": "1.2-5.5V",
+        "package": "TSSOP20"
+    },
+    {
+        "id": 346,
+        "name": "PWM Driver TLC5940",
+        "category": "Active Components",
+        "description": "16-channel PWM LED driver",
+        "voltage": "3-5.5V",
+        "package": "HTSSOP28"
+    },
+    {
+        "id": 347,
+        "name": "ADC ADS1292",
+        "category": "Active Components",
+        "description": "Biopotential ADC",
+        "voltage": "2.7-5.25V",
+        "package": "TQFP"
+    },
+    {
+        "id": 348,
+        "name": "Instrumentation Amp INA128",
+        "category": "Active Components",
+        "description": "Precision amplifier",
+        "voltage": "4.5-36V",
+        "package": "DIP8"
+    },
+    {
+        "id": 349,
+        "name": "NRF24L01+PA+LNA",
+        "category": "Active Components",
+        "description": "Long range RF module",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 350,
+        "name": "LoRa E32-433T30D",
+        "category": "Active Components",
+        "description": "High power LoRa module",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 351,
+        "name": "GPS NEO-M8N",
+        "category": "Active Components",
+        "description": "High precision GPS module",
+        "voltage": "3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 352,
+        "name": "SIM800L",
+        "category": "Active Components",
+        "description": "GSM module",
+        "voltage": "3.4-4.4V",
+        "package": "Module"
+    },
+    {
+        "id": 354,
+        "name": "eMMC Memory",
+        "category": "Active Components",
+        "description": "Embedded flash storage",
+        "voltage": "3.3V",
+        "package": "BGA"
+    },
+    {
+        "id": 359,
+        "name": "Touch Sensor TTP229",
+        "category": "Active Components",
+        "description": "16-key touch IC",
+        "voltage": "2.4-5.5V",
+        "package": "SOP"
+    },
+    {
+        "id": 360,
+        "name": "Capacitive Slider",
+        "category": "Active Components",
+        "description": "Touch slider sensor",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 361,
+        "name": "IR Receiver VS1838B",
+        "category": "Active Components",
+        "description": "IR remote receiver",
+        "voltage": "2.7-5.5V",
+        "package": "DIP3"
+    },
+    {
+        "id": 362,
+        "name": "IR Photodiode",
+        "category": "Active Components",
+        "description": "Infrared sensor diode",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 363,
+        "name": "Microphone Electret",
+        "category": "Active Components",
+        "description": "Analog microphone",
+        "voltage": "2-10V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 364,
+        "name": "MAX9814",
+        "category": "Active Components",
+        "description": "Microphone amplifier auto gain",
+        "voltage": "2.7-5.5V",
+        "package": "SMD"
+    },
+    {
+        "id": 365,
+        "name": "Pressure Sensor BMP180",
+        "category": "Active Components",
+        "description": "Pressure sensor legacy",
+        "voltage": "1.8-3.6V",
+        "package": "LGA"
+    },
+    {
+        "id": 366,
+        "name": "Load Cell 10kg",
+        "category": "Active Components",
+        "description": "Weight sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 367,
+        "name": "HX710B",
+        "category": "Active Components",
+        "description": "ADC for load cell",
+        "voltage": "2.7-5.5V",
+        "package": "SOP8"
+    },
+    {
+        "id": 375,
+        "name": "EEPROM AT24C512",
+        "category": "Active Components",
+        "description": "I2C EEPROM 512Kbit",
+        "voltage": "2.5-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 376,
+        "name": "Flash GD25Q64",
+        "category": "Active Components",
+        "description": "SPI flash memory",
+        "voltage": "3.3V",
+        "package": "SOP8"
+    },
+    {
+        "id": 377,
+        "name": "Temperature Sensor MCP9808",
+        "category": "Active Components",
+        "description": "High accuracy temp sensor",
+        "voltage": "2.7-5.5V",
+        "package": "MSOP8"
+    },
+    {
+        "id": 378,
+        "name": "Humidity Sensor HIH6130",
+        "category": "Active Components",
+        "description": "Humidity sensor I2C",
+        "voltage": "2.3-5.5V",
+        "package": "DFN"
+    },
+    {
+        "id": 379,
+        "name": "Accelerometer MMA8452",
+        "category": "Active Components",
+        "description": "3-axis accelerometer",
+        "voltage": "1.95-3.6V",
+        "package": "QFN"
+    },
+    {
+        "id": 380,
+        "name": "Gyroscope L3G4200D",
+        "category": "Active Components",
+        "description": "3-axis gyro",
+        "voltage": "2.4-3.6V",
+        "package": "LGA"
+    },
+    {
+        "id": 381,
+        "name": "Digital Potentiometer MCP41010",
+        "category": "Active Components",
+        "description": "10k digital pot",
+        "voltage": "2.7-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 382,
+        "name": "Digital Potentiometer AD8400",
+        "category": "Active Components",
+        "description": "Digital resistor",
+        "voltage": "2.7-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 383,
+        "name": "Comparator TLV3012",
+        "category": "Active Components",
+        "description": "Comparator with reference",
+        "voltage": "1.8-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 384,
+        "name": "Voltage Reference REF3025",
+        "category": "Active Components",
+        "description": "2.5V reference IC",
+        "voltage": "2.7-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 385,
+        "name": "USB Hub Controller FE1.1s",
+        "category": "Active Components",
+        "description": "USB hub IC",
+        "voltage": "5V",
+        "package": "SOP28"
+    },
+    {
+        "id": 386,
+        "name": "Ethernet PHY LAN8720",
+        "category": "Active Components",
+        "description": "PHY transceiver",
+        "voltage": "3.3V",
+        "package": "QFN24"
+    },
+    {
+        "id": 387,
+        "name": "PoE Module",
+        "category": "Active Components",
+        "description": "Power over Ethernet module",
+        "voltage": "48V",
+        "package": "Module"
+    },
+    {
+        "id": 388,
+        "name": "Battery Charger TP4056",
+        "category": "Active Components",
+        "description": "Li-ion charger IC",
+        "voltage": "5V",
+        "package": "SOP8"
+    },
+    {
+        "id": 392,
+        "name": "Crystal Oscillator Module",
+        "category": "Active Components",
+        "description": "Active clock source",
+        "voltage": "3.3V",
+        "package": "SMD"
+    },
+    {
+        "id": 393,
+        "name": "Magnetic Encoder AS5048A",
+        "category": "Active Components",
+        "description": "High resolution encoder",
+        "voltage": "3.3V",
+        "package": "TQFP"
+    },
+    {
+        "id": 395,
+        "name": "Proximity Sensor E18-D80NK",
+        "category": "Active Components",
+        "description": "IR proximity sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 396,
+        "name": "Water Level Sensor",
+        "category": "Active Components",
+        "description": "Water detection sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 397,
+        "name": "Soil Moisture Sensor",
+        "category": "Active Components",
+        "description": "Soil humidity sensor",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 398,
+        "name": "Rain Sensor Module",
+        "category": "Active Components",
+        "description": "Rain detection sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 399,
+        "name": "Gas Sensor MQ-7",
+        "category": "Active Components",
+        "description": "CO gas sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 400,
+        "name": "Gas Sensor MQ-9",
+        "category": "Active Components",
+        "description": "CO + methane sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 401,
+        "name": "Gas Sensor MQ-8",
+        "category": "Active Components",
+        "description": "Hydrogen gas sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 402,
+        "name": "Gas Sensor MQ-131",
+        "category": "Active Components",
+        "description": "Ozone gas sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 403,
+        "name": "Gas Sensor MQ-136",
+        "category": "Active Components",
+        "description": "H2S gas sensor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 404,
+        "name": "Flame Sensor Module",
+        "category": "Active Components",
+        "description": "Infrared flame detection",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 405,
+        "name": "UV Sensor VEML6070",
+        "category": "Active Components",
+        "description": "UV light sensor",
+        "voltage": "2.7-5.5V",
+        "package": "SOIC"
+    },
+    {
+        "id": 406,
+        "name": "FPGA ICE40HX1K",
+        "category": "Active Components",
+        "description": "Low power FPGA",
+        "voltage": "1.2-3.3V",
+        "package": "QFN48"
+    },
+    {
+        "id": 407,
+        "name": "FPGA XC7A35T",
+        "category": "Active Components",
+        "description": "Xilinx Artix-7 FPGA",
+        "voltage": "1.0V",
+        "package": "BGA"
+    },
+    {
+        "id": 408,
+        "name": "K210 Kendryte",
+        "category": "Active Components",
+        "description": "AI edge MCU with KPU",
+        "voltage": "3.3V",
+        "package": "QFN48"
+    },
+    {
+        "id": 409,
+        "name": "Google Coral TPU",
+        "category": "Active Components",
+        "description": "Edge AI accelerator",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 410,
+        "name": "Movidius Myriad X",
+        "category": "Active Components",
+        "description": "AI vision processor",
+        "voltage": "1.8-3.3V",
+        "package": "BGA"
+    },
+    {
+        "id": 411,
+        "name": "ESP32-H2",
+        "category": "Active Components",
+        "description": "Thread + BLE MCU",
+        "voltage": "3.3V",
+        "package": "QFN32"
+    },
+    {
+        "id": 412,
+        "name": "STM32WB55",
+        "category": "Active Components",
+        "description": "BLE + MCU combo",
+        "voltage": "1.7-3.6V",
+        "package": "LQFP48"
+    },
+    {
+        "id": 413,
+        "name": "NRF5340",
+        "category": "Active Components",
+        "description": "Dual-core BLE MCU",
+        "voltage": "1.7-3.6V",
+        "package": "QFN94"
+    },
+    {
+        "id": 414,
+        "name": "Silicon Labs EFR32MG21",
+        "category": "Active Components",
+        "description": "Zigbee/Thread SoC",
+        "voltage": "1.8-3.8V",
+        "package": "QFN40"
+    },
+    {
+        "id": 415,
+        "name": "CC2652R",
+        "category": "Active Components",
+        "description": "TI Zigbee MCU",
+        "voltage": "1.8-3.8V",
+        "package": "QFN48"
+    },
+    {
+        "id": 416,
+        "name": "ADXL377",
+        "category": "Active Components",
+        "description": "High-g accelerometer",
+        "voltage": "3.3V",
+        "package": "LFCSP"
+    },
+    {
+        "id": 417,
+        "name": "ICM42688",
+        "category": "Active Components",
+        "description": "6-axis IMU high precision",
+        "voltage": "1.8-3.6V",
+        "package": "LGA"
+    },
+    {
+        "id": 418,
+        "name": "BNO085",
+        "category": "Active Components",
+        "description": "9-axis IMU with fusion",
+        "voltage": "3.3V",
+        "package": "QFN"
+    },
+    {
+        "id": 419,
+        "name": "LPS22HB",
+        "category": "Active Components",
+        "description": "Pressure sensor MEMS",
+        "voltage": "1.7-3.6V",
+        "package": "LGA"
+    },
+    {
+        "id": 420,
+        "name": "MS5611",
+        "category": "Active Components",
+        "description": "Barometric sensor high res",
+        "voltage": "1.8-3.6V",
+        "package": "Module"
+    },
+    {
+        "id": 421,
+        "name": "TMP117",
+        "category": "Active Components",
+        "description": "High precision temp sensor",
+        "voltage": "1.8-5.5V",
+        "package": "WSON"
+    },
+    {
+        "id": 422,
+        "name": "ADT7410",
+        "category": "Active Components",
+        "description": "Digital temperature sensor",
+        "voltage": "2.7-5.5V",
+        "package": "SOIC"
+    },
+    {
+        "id": 423,
+        "name": "MAX30205",
+        "category": "Active Components",
+        "description": "Body temperature sensor",
+        "voltage": "2.7-3.3V",
+        "package": "LGA"
+    },
+    {
+        "id": 424,
+        "name": "SI1145",
+        "category": "Active Components",
+        "description": "UV/IR/visible sensor",
+        "voltage": "1.7-3.6V",
+        "package": "QFN"
+    },
+    {
+        "id": 425,
+        "name": "VEML6030",
+        "category": "Active Components",
+        "description": "Ambient light sensor",
+        "voltage": "2.5-3.6V",
+        "package": "QFN"
+    },
+    {
+        "id": 431,
+        "name": "74LVC245",
+        "category": "Active Components",
+        "description": "Bus transceiver",
+        "voltage": "1.65-5.5V",
+        "package": "TSSOP20"
+    },
+    {
+        "id": 432,
+        "name": "74AHC1G125",
+        "category": "Active Components",
+        "description": "Single buffer gate",
+        "voltage": "2-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 433,
+        "name": "CD74HC4067",
+        "category": "Active Components",
+        "description": "16-channel multiplexer",
+        "voltage": "2-6V",
+        "package": "DIP24"
+    },
+    {
+        "id": 434,
+        "name": "74HC4511",
+        "category": "Active Components",
+        "description": "BCD to 7-seg decoder",
+        "voltage": "2-6V",
+        "package": "DIP16"
+    },
+    {
+        "id": 435,
+        "name": "74HC595N",
+        "category": "Active Components",
+        "description": "Shift register DIP",
+        "voltage": "2-6V",
+        "package": "DIP16"
+    },
+    {
+        "id": 436,
+        "name": "OPA1612",
+        "category": "Active Components",
+        "description": "High fidelity op-amp",
+        "voltage": "4.5-36V",
+        "package": "SOIC8"
+    },
+    {
+        "id": 437,
+        "name": "AD8606",
+        "category": "Active Components",
+        "description": "Precision op-amp",
+        "voltage": "2.7-5.5V",
+        "package": "SOIC8"
+    },
+    {
+        "id": 438,
+        "name": "MCP6022",
+        "category": "Active Components",
+        "description": "Rail-to-rail op-amp",
+        "voltage": "2.5-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 439,
+        "name": "LMV358",
+        "category": "Active Components",
+        "description": "Low voltage op-amp",
+        "voltage": "2.7-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 440,
+        "name": "TL084",
+        "category": "Active Components",
+        "description": "JFET op-amp quad",
+        "voltage": "7-36V",
+        "package": "DIP14"
+    },
+    {
+        "id": 441,
+        "name": "2N7002",
+        "category": "Active Components",
+        "description": "N-MOSFET small signal",
+        "voltage": "60V",
+        "package": "SOT23"
+    },
+    {
+        "id": 442,
+        "name": "IRLML2502",
+        "category": "Active Components",
+        "description": "Logic MOSFET SMD",
+        "voltage": "20V",
+        "package": "SOT23"
+    },
+    {
+        "id": 443,
+        "name": "AO3401",
+        "category": "Active Components",
+        "description": "P-MOSFET SMD",
+        "voltage": "30V",
+        "package": "SOT23"
+    },
+    {
+        "id": 444,
+        "name": "FDN337N",
+        "category": "Active Components",
+        "description": "N-MOSFET SMD",
+        "voltage": "30V",
+        "package": "SOT23"
+    },
+    {
+        "id": 445,
+        "name": "SI2305",
+        "category": "Active Components",
+        "description": "P-MOSFET SMD",
+        "voltage": "20V",
+        "package": "SOT23"
+    },
+    {
+        "id": 446,
+        "name": "ESD9B5V",
+        "category": "Active Components",
+        "description": "ESD protection diode",
+        "voltage": "5V",
+        "package": "SOD923"
+    },
+    {
+        "id": 447,
+        "name": "SMF05C",
+        "category": "Active Components",
+        "description": "TVS diode array",
+        "voltage": "5V",
+        "package": "SOT23-6"
+    },
+    {
+        "id": 448,
+        "name": "BZX55C5V1",
+        "category": "Active Components",
+        "description": "Zener diode 5.1V",
+        "voltage": "5.1V",
+        "package": "DO35"
+    },
+    {
+        "id": 449,
+        "name": "1N4733A",
+        "category": "Active Components",
+        "description": "Zener diode 5.1V",
+        "voltage": "5.1V",
+        "package": "DO41"
+    },
+    {
+        "id": 450,
+        "name": "UF5408",
+        "category": "Active Components",
+        "description": "Ultra fast diode",
+        "voltage": "1000V",
+        "package": "DO201"
+    },
+    {
+        "id": 451,
+        "name": "LED UV",
+        "category": "Active Components",
+        "description": "Ultraviolet LED",
+        "voltage": "3.3V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 452,
+        "name": "LED Amber",
+        "category": "Active Components",
+        "description": "Amber LED",
+        "voltage": "2V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 453,
+        "name": "WS2813",
+        "category": "Active Components",
+        "description": "Advanced RGB LED",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 454,
+        "name": "SK9822",
+        "category": "Active Components",
+        "description": "APA102 compatible LED",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 455,
+        "name": "Optocoupler H11AA1",
+        "category": "Active Components",
+        "description": "AC input optocoupler",
+        "voltage": "5V",
+        "package": "DIP6"
+    },
+    {
+        "id": 456,
+        "name": "Optocoupler MOC3021",
+        "category": "Active Components",
+        "description": "Triac driver optocoupler",
+        "voltage": "5V",
+        "package": "DIP6"
+    },
+    {
+        "id": 470,
+        "name": "OLED 2.42 SSD1309",
+        "category": "Active Components",
+        "description": "Large OLED display",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 471,
+        "name": "IPS TFT ST7789",
+        "category": "Active Components",
+        "description": "High color TFT display",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 475,
+        "name": "ESP32-P4",
+        "category": "Active Components",
+        "description": "Next gen ESP32 MCU",
+        "voltage": "3.3V",
+        "package": "QFN"
+    },
+    {
+        "id": 476,
+        "name": "RTL8722DM",
+        "category": "Active Components",
+        "description": "WiFi+BLE module advanced",
+        "voltage": "3.3V",
+        "package": "Module"
+    },
+    {
+        "id": 477,
+        "name": "CH343",
+        "category": "Active Components",
+        "description": "USB UART IC",
+        "voltage": "5V",
+        "package": "SOP16"
+    },
+    {
+        "id": 478,
+        "name": "CP2105",
+        "category": "Active Components",
+        "description": "USB dual UART",
+        "voltage": "3.3V",
+        "package": "QFN24"
+    },
+    {
+        "id": 479,
+        "name": "MCP2562",
+        "category": "Active Components",
+        "description": "CAN transceiver 3.3V",
+        "voltage": "3.3V",
+        "package": "SO8"
+    },
+    {
+        "id": 480,
+        "name": "SN65HVD72",
+        "category": "Active Components",
+        "description": "RS485 transceiver low power",
+        "voltage": "3.3V",
+        "package": "SO8"
+    },
+    {
+        "id": 481,
+        "name": "DRV8871",
+        "category": "Active Components",
+        "description": "Motor driver single channel",
+        "voltage": "6.5-45V",
+        "package": "HTSSOP8"
+    },
+    {
+        "id": 482,
+        "name": "MC33926",
+        "category": "Active Components",
+        "description": "Motor driver high current",
+        "voltage": "5-28V",
+        "package": "HSOP"
+    },
+    {
+        "id": 483,
+        "name": "INA180",
+        "category": "Active Components",
+        "description": "Current sense amplifier",
+        "voltage": "2.7-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 484,
+        "name": "INA333",
+        "category": "Active Components",
+        "description": "Instrumentation amplifier",
+        "voltage": "1.8-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 485,
+        "name": "RTC RV3028",
+        "category": "Active Components",
+        "description": "Ultra low power RTC",
+        "voltage": "1.2-5.5V",
+        "package": "QFN"
+    },
+    {
+        "id": 486,
+        "name": "DS3234",
+        "category": "Active Components",
+        "description": "RTC SPI interface",
+        "voltage": "2.3-5.5V",
+        "package": "DIP"
+    },
+    {
+        "id": 487,
+        "name": "EEPROM AT24C1024",
+        "category": "Active Components",
+        "description": "I2C EEPROM 1Mbit",
+        "voltage": "2.5-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 488,
+        "name": "Flash W25Q256",
+        "category": "Active Components",
+        "description": "SPI flash 256Mbit",
+        "voltage": "2.7-3.6V",
+        "package": "SOP8"
+    },
+    {
+        "id": 489,
+        "name": "TMP75",
+        "category": "Active Components",
+        "description": "Temperature sensor I2C",
+        "voltage": "2.7-5.5V",
+        "package": "SOIC"
+    },
+    {
+        "id": 490,
+        "name": "HDC1080",
+        "category": "Active Components",
+        "description": "Humidity + temp sensor",
+        "voltage": "2.7-5.5V",
+        "package": "WSON"
+    },
+    {
+        "id": 491,
+        "name": "Accelerometer LIS2DH12",
+        "category": "Active Components",
+        "description": "Low power accelerometer",
+        "voltage": "1.7-3.6V",
+        "package": "LGA"
+    },
+    {
+        "id": 492,
+        "name": "Gyroscope MPU6500",
+        "category": "Active Components",
+        "description": "6-axis IMU",
+        "voltage": "2.4-3.6V",
+        "package": "QFN"
+    },
+    {
+        "id": 493,
+        "name": "Digital Potentiometer MCP4131",
+        "category": "Active Components",
+        "description": "10k digital pot",
+        "voltage": "2.7-5.5V",
+        "package": "DIP8"
+    },
+    {
+        "id": 494,
+        "name": "Digital Potentiometer AD5242",
+        "category": "Active Components",
+        "description": "Dual digital pot",
+        "voltage": "2.7-5.5V",
+        "package": "SOIC"
+    },
+    {
+        "id": 495,
+        "name": "Comparator LMV331",
+        "category": "Active Components",
+        "description": "Low voltage comparator",
+        "voltage": "2.7-5.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 496,
+        "name": "Voltage Reference LM4040",
+        "category": "Active Components",
+        "description": "Precision reference",
+        "voltage": "2.5V",
+        "package": "SOT23"
+    },
+    {
+        "id": 497,
+        "name": "Ethernet Controller W5500",
+        "category": "Active Components",
+        "description": "Hardwired TCP/IP controller",
+        "voltage": "3.3V",
+        "package": "QFN48"
+    },
+    {
+        "id": 498,
+        "name": "USB Controller CH376",
+        "category": "Active Components",
+        "description": "USB host controller",
+        "voltage": "5V",
+        "package": "SOP28"
+    },
+    {
+        "id": 499,
+        "name": "PoE Controller TPS2375",
+        "category": "Active Components",
+        "description": "PoE PD controller",
+        "voltage": "48V",
+        "package": "SOIC8"
+    },
+    {
+        "id": 500,
+        "name": "Battery Protection DW01",
+        "category": "Active Components",
+        "description": "Li-ion protection IC",
+        "voltage": "2.5-4.5V",
+        "package": "SOT23"
+    }
+]

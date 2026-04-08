@@ -1,0 +1,426 @@
+[
+    {
+        "id": 82,
+        "name": "Relay SRD-05VDC",
+        "category": "Others & Hardware",
+        "description": "5V relay module",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 83,
+        "name": "Button Switch",
+        "category": "Others & Hardware",
+        "description": "Tactile switch",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 84,
+        "name": "Slide Switch",
+        "category": "Others & Hardware",
+        "description": "Slide switch SPDT",
+        "voltage": "12V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 85,
+        "name": "Buzzer",
+        "category": "Others & Hardware",
+        "description": "Active buzzer",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 86,
+        "name": "USB Type-C Connector",
+        "category": "Others & Hardware",
+        "description": "USB-C port",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 87,
+        "name": "Micro USB Connector",
+        "category": "Others & Hardware",
+        "description": "Micro USB port",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 88,
+        "name": "Pin Header",
+        "category": "Others & Hardware",
+        "description": "2.54mm header",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 89,
+        "name": "Terminal Block",
+        "category": "Others & Hardware",
+        "description": "Screw terminal",
+        "voltage": "300V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 183,
+        "name": "Relay 12V",
+        "category": "Others & Hardware",
+        "description": "12V relay",
+        "voltage": "12V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 184,
+        "name": "Toggle Switch",
+        "category": "Others & Hardware",
+        "description": "Toggle switch",
+        "voltage": "12V",
+        "package": "Panel"
+    },
+    {
+        "id": 185,
+        "name": "Rotary Encoder",
+        "category": "Others & Hardware",
+        "description": "Rotary input device",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 186,
+        "name": "Speaker",
+        "category": "Others & Hardware",
+        "description": "Mini speaker",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 187,
+        "name": "DC Jack",
+        "category": "Others & Hardware",
+        "description": "DC power connector",
+        "voltage": "12V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 188,
+        "name": "JST Connector",
+        "category": "Others & Hardware",
+        "description": "Battery connector",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 189,
+        "name": "FPC Connector",
+        "category": "Others & Hardware",
+        "description": "Flat cable connector",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 220,
+        "name": "Reed Switch",
+        "category": "Others & Hardware",
+        "description": "Magnetic switch",
+        "voltage": "5V",
+        "package": "Glass"
+    },
+    {
+        "id": 231,
+        "name": "Micro SD Module",
+        "category": "Others & Hardware",
+        "description": "Storage interface",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 232,
+        "name": "SD Card Socket",
+        "category": "Others & Hardware",
+        "description": "SD connector",
+        "voltage": "3.3V",
+        "package": "SMD"
+    },
+    {
+        "id": 235,
+        "name": "Heatsink TO220",
+        "category": "Others & Hardware",
+        "description": "Cooling component",
+        "voltage": NaN,
+        "package": "TO220"
+    },
+    {
+        "id": 236,
+        "name": "Fan 5V",
+        "category": "Others & Hardware",
+        "description": "Cooling fan",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 246,
+        "name": "Stepper Motor NEMA17",
+        "category": "Others & Hardware",
+        "description": "Stepper motor",
+        "voltage": "12V",
+        "package": "Mechanical"
+    },
+    {
+        "id": 247,
+        "name": "Servo SG90",
+        "category": "Others & Hardware",
+        "description": "Servo motor",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 248,
+        "name": "DC Motor",
+        "category": "Others & Hardware",
+        "description": "DC motor",
+        "voltage": "6-12V",
+        "package": "Mechanical"
+    },
+    {
+        "id": 249,
+        "name": "WiFi Antenna",
+        "category": "Others & Hardware",
+        "description": "Antenna",
+        "voltage": "3.3V",
+        "package": "SMA"
+    },
+    {
+        "id": 313,
+        "name": "Push Button",
+        "category": "Others & Hardware",
+        "description": "Momentary switch",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 314,
+        "name": "DIP Switch",
+        "category": "Others & Hardware",
+        "description": "Multi-switch input",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 315,
+        "name": "Keypad 4x4",
+        "category": "Others & Hardware",
+        "description": "Matrix keypad",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 316,
+        "name": "Joystick Module",
+        "category": "Others & Hardware",
+        "description": "Analog joystick",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 317,
+        "name": "Screw Terminal 2P",
+        "category": "Others & Hardware",
+        "description": "2-pin connector",
+        "voltage": "300V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 318,
+        "name": "Screw Terminal 3P",
+        "category": "Others & Hardware",
+        "description": "3-pin connector",
+        "voltage": "300V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 319,
+        "name": "Female Header",
+        "category": "Others & Hardware",
+        "description": "2.54mm female header",
+        "voltage": "5V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 342,
+        "name": "Reed Switch Small",
+        "category": "Others & Hardware",
+        "description": "Mini reed switch",
+        "voltage": "5V",
+        "package": "Glass"
+    },
+    {
+        "id": 353,
+        "name": "SD Card Reader Module",
+        "category": "Others & Hardware",
+        "description": "Storage module",
+        "voltage": "3.3-5V",
+        "package": "Module"
+    },
+    {
+        "id": 357,
+        "name": "Heatsink Small",
+        "category": "Others & Hardware",
+        "description": "Small cooling",
+        "voltage": NaN,
+        "package": "Mechanical"
+    },
+    {
+        "id": 358,
+        "name": "Cooling Fan 12V",
+        "category": "Others & Hardware",
+        "description": "DC fan",
+        "voltage": "12V",
+        "package": "Module"
+    },
+    {
+        "id": 368,
+        "name": "Stepper Motor 28BYJ-48",
+        "category": "Others & Hardware",
+        "description": "Small stepper motor",
+        "voltage": "5V",
+        "package": "Mechanical"
+    },
+    {
+        "id": 369,
+        "name": "Servo MG996R",
+        "category": "Others & Hardware",
+        "description": "High torque servo",
+        "voltage": "6V",
+        "package": "Module"
+    },
+    {
+        "id": 370,
+        "name": "DC Motor 775",
+        "category": "Others & Hardware",
+        "description": "High power DC motor",
+        "voltage": "12V",
+        "package": "Mechanical"
+    },
+    {
+        "id": 371,
+        "name": "WiFi PCB Antenna",
+        "category": "Others & Hardware",
+        "description": "PCB antenna",
+        "voltage": "3.3V",
+        "package": "SMD"
+    },
+    {
+        "id": 372,
+        "name": "Bluetooth Antenna",
+        "category": "Others & Hardware",
+        "description": "Antenna module",
+        "voltage": "3.3V",
+        "package": "SMA"
+    },
+    {
+        "id": 373,
+        "name": "RS232 DB9 Connector",
+        "category": "Others & Hardware",
+        "description": "Serial port connector",
+        "voltage": "12V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 374,
+        "name": "Barrel Jack 5.5mm",
+        "category": "Others & Hardware",
+        "description": "DC jack connector",
+        "voltage": "12V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 389,
+        "name": "Li-ion Battery 18650",
+        "category": "Others & Hardware",
+        "description": "Rechargeable battery",
+        "voltage": "3.7V",
+        "package": "Cylindrical"
+    },
+    {
+        "id": 390,
+        "name": "Battery Holder 18650",
+        "category": "Others & Hardware",
+        "description": "Battery holder",
+        "voltage": "3.7V",
+        "package": "Through-hole"
+    },
+    {
+        "id": 391,
+        "name": "RTC Backup Battery CR2032",
+        "category": "Others & Hardware",
+        "description": "Coin cell battery",
+        "voltage": "3V",
+        "package": "Coin"
+    },
+    {
+        "id": 394,
+        "name": "Rotary Encoder KY-040",
+        "category": "Others & Hardware",
+        "description": "Mechanical encoder",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 463,
+        "name": "Tact Switch SMD",
+        "category": "Others & Hardware",
+        "description": "SMD tactile button",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 464,
+        "name": "Slide Switch SMD",
+        "category": "Others & Hardware",
+        "description": "Mini slide switch",
+        "voltage": "12V",
+        "package": "SMD"
+    },
+    {
+        "id": 465,
+        "name": "Rotary Switch",
+        "category": "Others & Hardware",
+        "description": "Multi-position switch",
+        "voltage": "12V",
+        "package": "Panel"
+    },
+    {
+        "id": 466,
+        "name": "Trackball Module",
+        "category": "Others & Hardware",
+        "description": "Input device",
+        "voltage": "5V",
+        "package": "Module"
+    },
+    {
+        "id": 467,
+        "name": "FPC 0.5mm Connector",
+        "category": "Others & Hardware",
+        "description": "Flat cable connector",
+        "voltage": "5V",
+        "package": "SMD"
+    },
+    {
+        "id": 468,
+        "name": "SMA Connector",
+        "category": "Others & Hardware",
+        "description": "RF connector",
+        "voltage": "50ohm",
+        "package": "SMA"
+    },
+    {
+        "id": 469,
+        "name": "BNC Connector",
+        "category": "Others & Hardware",
+        "description": "RF connector",
+        "voltage": "50ohm",
+        "package": "Panel"
+    }
+]
